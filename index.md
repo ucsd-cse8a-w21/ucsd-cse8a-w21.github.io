@@ -34,7 +34,9 @@ Diego. Will this be a problem?**
 We will have scheduled, remote lecture sections in or around the official times
 (Tuesday and Thursday evenings). These will be for discussion, interactive
 work, and group practice for meeting classmates and learning together.  We
-won't track attendance for credit at these meetings.
+won't track attendance for credit at these meetings. All of the official course
+material will be available outside of these times through recorded videos, a
+(free, online) textbook, and this course site.
 
 There is a lab component to CSE 8A. (Some of) these will require synchronous
 attendance. However, we will provide many times to complete lab work

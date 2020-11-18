@@ -20,9 +20,10 @@ learning through your own program designs.
 This web page will serve as the main source of announcements and resources for
 the course, as well as the syllabus.
 
-This page, for now, is a placeholder and will be filled in with information
-as we approach winter quarter. There are a few FAQs below that you may find
-useful.
+This page, for now, is a placeholder and will be filled in with information as
+we approach winter quarter. There are a few FAQs below that you may find
+useful, and don't hesitate to contact me (Joe Politz, jpolitz@eng.ucsd.edu)
+with any further questions.
 
 <a id="basics"></a>
 ## Basics/Anticipated Frequent Questions
@@ -30,10 +31,10 @@ useful.
 **I have constraints on my schedule/I'm in a time zone very different from San
 Diego. Will this be a problem?**
 
-We will have scheduled lecture sections in or around the official times
+We will have scheduled, remote lecture sections in or around the official times
 (Tuesday and Thursday evenings). These will be for discussion, interactive
-work, and group practice for meeting classmates and learning togeher.
-We won't track attendance for credit at these meetings.
+work, and group practice for meeting classmates and learning together.  We
+won't track attendance for credit at these meetings.
 
 There is a lab component to CSE 8A. (Some of) these will require synchronous
 attendance. However, we will provide many times to complete lab work
@@ -70,6 +71,20 @@ official catalog description going forward:
 The course placement advice link is here:
 
 [https://cse.ucsd.edu/index.php/undergraduate/courses/cse-course-placement-advice](https://cse.ucsd.edu/index.php/undergraduate/courses/cse-course-placement-advice)
+
+
+**My primary computer is a Chromebook or similar, do I need a different
+computer?**
+
+You will be able to complete all of the coursework using just a Web browser, so
+you don't need access to a standard operating system.
+
+We don't recommend completing coursework from a mobile device or a tablet
+without a keyboard and trackpad or mouse. It will likely be possible, but we
+may not be able to commit to fully supporting it.
+
+You can request a loaner laptop or lab access through UCSD's [remote learning
+resources](https://vcsa.ucsd.edu/news/covid-19/#Access-to-Computers-and-Discoun).
 
 
 

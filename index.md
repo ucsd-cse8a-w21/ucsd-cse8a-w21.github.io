@@ -9,14 +9,6 @@ doodle-alt: "A sound wave transformed to data, and back to into a higher-frequen
 
 <a href="https://jpolitz.github.io">Joe Gibbs Politz</a> (Instructor)
 
-<p>This page, for now, is a placeholder and will be filled in with information
-as we approach winter quarter. There are a few FAQs below that you may find
-useful.</p>
-
-<p>
-<a href="#basics">Basics</a> -
-</p>
-
 In this course, you will learn to write, trace, and test programs; explore the
 interactions between programs and data; and use computation to inspect and
 manipulate media like data, images, and sounds.
@@ -28,8 +20,11 @@ learning through your own program designs.
 This web page will serve as the main source of announcements and resources for
 the course, as well as the syllabus.
 
-<a id="basics"></a>
+This page, for now, is a placeholder and will be filled in with information
+as we approach winter quarter. There are a few FAQs below that you may find
+useful.
 
+<a id="basics"></a>
 ## Basics/Anticipated Frequent Questions
 
 **I have constraints on my schedule/I'm in a time zone very different from San

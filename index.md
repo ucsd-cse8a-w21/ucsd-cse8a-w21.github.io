@@ -85,6 +85,8 @@ may not be able to commit to fully supporting it.
 
 You can request a loaner laptop or lab access through UCSD's [remote learning
 resources](https://vcsa.ucsd.edu/news/covid-19/#Access-to-Computers-and-Discoun).
+Feel free to contact me (jpolitz@eng.ucsd.edu) if you have other technology
+questions about the course.
 
 
 

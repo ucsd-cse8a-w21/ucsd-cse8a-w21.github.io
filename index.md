@@ -13,7 +13,7 @@ In this course, you will learn to write, trace, and test programs; explore the
 interactions between programs and data; and use computation to inspect and
 manipulate media like data, images, and sounds.
 
-We will explore these topics interactively in lecure, you will implement
+We will explore these topics interactively in lecture, you will implement
 programs to practice your programming skills, and you will reflect on this
 learning through your own program designs.
 
@@ -47,7 +47,7 @@ programming projects, as in fall 2020. For those continuing in sequence, CSE 8B
 will be entirely in Java. The updated course description relative to past
 offerings (and removal of Java from the title) is official, but hasn't shown up
 on all the relevant systems yet so you may have seen an old version. Here's the
-official course description:
+official catalog description going forward:
 
 > Course Title: Introduction to Programming and Computational Problem Solving - 1
 

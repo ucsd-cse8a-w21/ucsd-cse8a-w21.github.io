@@ -49,6 +49,7 @@ offerings (and removal of Java from the title) is official, but hasn't shown up
 on all the relevant systems yet so you may have seen an old version. Here's the
 official catalog description going forward:
 
+
 > Course Title: Introduction to Programming and Computational Problem Solving - 1
 
 > Introductory course for students interested in computer science and
@@ -64,6 +65,7 @@ official catalog description going forward:
 > but comfort using computers is helpful. Students should consult the “CSE
 > Course Placement Advice” web page for assistance in choosing which CSE
 > course to take first.
+
 
 The course placement advice link is here:
 

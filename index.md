@@ -83,7 +83,10 @@ you don't need access to a standard operating system.
 
 We don't recommend completing coursework from a mobile device or a tablet
 without a keyboard and trackpad or mouse. It will likely be possible, but we
-may not be able to commit to fully supporting it.
+may not be able to commit to fully supporting it. Of course, if you have
+particular constraints and need specific accommodations, do reach out to me to
+ask! If appropriate, also make sure to contact
+[OSD](https://students.ucsd.edu/well-being/disability-services/index.html).
 
 You can request a loaner laptop or lab access through UCSD's [remote learning
 resources](https://vcsa.ucsd.edu/news/covid-19/#Access-to-Computers-and-Discoun).

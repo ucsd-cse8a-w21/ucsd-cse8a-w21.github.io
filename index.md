@@ -43,8 +43,8 @@ attendance. However, we will provide many times to complete lab work
 synchronously and remotely, specifically to accommodate the wide range of
 schedules and time zones of students taking the class.
 
-For the listed final exam, you'll be given at least a 24-hour period on or near
-that day to complete the work, which may help avoid some conflicts with other
+For the listed final exam, you'll be able to complete it within a 24-hour
+period on or near that day, which may help avoid some conflicts with other
 courses.
 
 **I heard this class uses Python/Java/both/some other language. Which is it?**

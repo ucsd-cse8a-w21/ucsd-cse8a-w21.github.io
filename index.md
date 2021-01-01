@@ -5,6 +5,8 @@ doodle: "/doodle.png"
 doodle-alt: "“A pie running a marathon, because ya know, Python” - Rachel Lim (CSE8A Tutor)"
 ---
 
+<div class="sidenote">Banner art by tutor Rachel Lim.</div>
+
 # Introduction to Programming I (UCSD CSE 8A)
 
 <a href="https://jpolitz.github.io">Joe Gibbs Politz</a> (Instructor)

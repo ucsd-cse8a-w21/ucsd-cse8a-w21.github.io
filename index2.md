@@ -17,19 +17,59 @@ We will explore these topics interactively in lecture, you will implement
 programs to practice your programming skills, and you will reflect on this
 learning through your own program designs.
 
-This web page will serve as the main source of announcements and resources for
-the course, as well as the syllabus.
+This web page will serve as the main source of announcements and resources
+for the course, as well as the syllabus. It will get updates to the schedules
+and calendars below as we 
+
+## Do Now!
+
+This section will have instructions for current tasks you should be working
+on, and we will update it weekly.
+
+- Fill out [this
+survey](https://docs.google.com/forms/d/e/1FAIpQLScrxmgbgx9BCM8n_qo-BI4rKQAXhbGR2yf-sLrJGNYnanczSA/viewform)
+so we can schedule your first lab on Wednesday, January 6!
+- Read this whole Web page to understand the course
+- Make an account and start reading and completing exercises in [the online
+textbook](https://stepik.org/course/90691/syllabus)
+- Stay tuned for announcements on Tuesday/Wednesday about assignments and
+other information we will need for course setup
+- Check out the [course message board at
+EdStem](https://edstem.org/us/courses/3266/discussion/) and make sure you can
+login (you should get an invite email on Monday, January 4)
+
+## Need Help?
+
+If you're stuck on something CSE8A-related, whether content or logistics or
+scheduling, and aren't sure what to do or who to ask, send a private
+discussion post to all instructors on edstem
+[https://edstem.org/us/courses/3266/discussion/](https://edstem.org/us/courses/3266/discussion/).
+(Click “New Thread”, make sure the “Private” box is checked, write your
+message, and submit) You can leave your message public if you think other
+students might be able to answer it, as well. We can direct you to the right
+resource.
+
+Don't have an edstem account for CSE8A or can't find your invite? Email
+jpolitz@eng.ucsd.edu, or message me on Canvas, with subject "CSE8A edstem"
+and let us know.
+
+As we schedule additional help hours, this section will grow with additional
+options -- there are lots of opportunities to get help in CSE8A!
 
 ## Overview
 
 In general, in a week in this course, you will:
 
 - Complete **readings and exercises** in an online textbook hosted on
-Stepik (completing the exercises counts for credit), due on Friday at 4pm.
-- Complete a **programming assignment or exam** (for credit), due on Tuesday
-at 4pm.
+[Stepik](https://stepik.org/course/90691/syllabus) (completing the exercises
+counts for credit), due on Friday at 4pm (including in week 1).
+- Complete a **programming assignment or assessment**, due on Tuesday
+at 4pm (first one due in week 2).
 - Attend and participate a group, synchronous **lab exercise** session on
-Wednesday (flexible scheduling)
+Wednesday (flexible scheduling, synchronous attendance expected), fill out
+[this
+survey](https://docs.google.com/forms/d/e/1FAIpQLScrxmgbgx9BCM8n_qo-BI4rKQAXhbGR2yf-sLrJGNYnanczSA/viewform)
+ASAP so we can schedule you!
 - Participate in, or watch later, **lecture sessions** on Tuesday and
 Thursday evening (5-6:20pm or 6:30-8pm)
 - Participate in, or watch later, **discussion sessions** on Friday (5-6pm or
@@ -38,7 +78,7 @@ Thursday evening (5-6:20pm or 6:30-8pm)
 through the message board, help hours, or one-on-one meetings.
 
 In total, we aim for all of this (including lectures) to take you between
-8-12 hours per week. If you find yourself taking substantially more than
+10-12 hours per week. If you find yourself taking substantially more than
 that, consider asking the course staff for programming and study strategies.
 
 ## Calendar
@@ -58,17 +98,19 @@ Your grade will be calculated from:
 
 - 10% labs
 - 10% reading, review, and drill exercises
-- 30% programming assignments (PAs)
-- 50% programming assessments
+- 40% programming **assignments** (PAs)
+- 40% programming **assessments**
   - 3 during the quarter, plus one during finals week
 
 ## Labs and Check-ins
 
 Each week on Wednesday there will be synchronous lab sessions where you work
 with several other students and a tutor to practice your programming skills.
-During the first few days of the quarter, you'll fill out this survey (fill)
-so we can know your availability for different times on Wednesday and
-schedule accordingly.
+During the first few days of the quarter, you'll fill out this survey so we
+can know your availability for different times on Wednesday and schedule
+accordingly:
+
+[https://docs.google.com/forms/d/e/1FAIpQLScrxmgbgx9BCM8n_qo-BI4rKQAXhbGR2yf-sLrJGNYnanczSA/viewform](https://docs.google.com/forms/d/e/1FAIpQLScrxmgbgx9BCM8n_qo-BI4rKQAXhbGR2yf-sLrJGNYnanczSA/viewform)
 
 During lab, you will also have a chance for one-on-one check-ins with your
 lab tutor for 5-10 minutes. This is a good time to ask any questions you have
@@ -87,8 +129,9 @@ don't recommend it).
 
 ## Reading, Review, and Drill
 
-There is a free online textbook with built-in quizzes and practice
-activities. You'll complete these for credit each week (due Friday), to get
+There is a free online textbook with built-in quizzes and practice activities
+([https://stepik.org/course/90691/syllabus](https://stepik.org/course/90691/syllabus)).
+You'll complete these for credit each week (due Friday 4pm), to get
 conceptual background and practice with the new programming features for the
 week. Your grade is based on the percentage of activities from the week's
 chapter that you complete.
@@ -112,13 +155,12 @@ will also have you write code to solve problems, but you must complete them
 on your own, and the staff won't help you solve the problems or write code
 for them. You can think of them as open-notes, open-book exams where instead
 of solving problems on paper you will write a program. In addition, on
-assessments, you will record a short video of you demonstrating how you
-program works according to a prompt we give you. They also won't be available
-as long as the assignments; we will release them on Friday (rather than
-Wednesday) and they will still be due Tuesday. This is because the
-assessments are _shorter_ than the assignments, so we really just want to
-give you enough time to schedule a 3-4 hour block of time to complete it as
-if it's an exam, not treat it like a full-week project.
+assessments, you will **record a short video** of you demonstrating how you
+program works according to a prompt we give you. They may be released for
+less than a full week, because the assessments are _shorter_ than the
+assignments, so we really just want to give you enough time to schedule a 3-4
+hour block of time to complete it as if it's an exam, not treat it like a
+full-week project.
 
 It's worth explaining why we are using this mechanism. There are at least two
 reasons:
@@ -137,10 +179,98 @@ We will delete all the videos we receive from you after assigning final grades
 for the course, and they will be stored in a university-controlled Google Drive
 directory during the quarter only accessible to the course staff.
 
-Please send a private message on Piazza or an email to the instructor if you
-have concerns about this exam policy or cannot complete exams in this style for
-some reason.
+Please send a private message on to the instructor if you have concerns about
+this exam policy or cannot complete exams in this style for some reason.
 
 The schedule has a PA each week, where PAs 3, 6, and 9 are programming
-_assessments_. There will also be a final assessment around the time of your
-final exam.
+_assessments_. There will also be a final programming assessment around the
+time of your final exam.
+
+## Late and Missed Work
+
+There will be opportunities to regain **some** (not necessarily all) lost
+credit on programming _assignments_ if you submit something incomplete or
+miss the deadline, by resubmitting later with fixes. The details of this
+process will be described along with the grades for the first programming
+assignment.
+
+Programming _assessments_ are like exams, so late work will not be accepted.
+However, the combined grading policy for the assessments will allow some
+flexibility in the event that you cannot complete one of them. That policy
+will be posted here along with the release of the first _assessment_.
+
+If you miss a lab, there will be a posted make-up activity that you can
+complete on your own for **half** credit on that week's lab.
+
+If you miss a week of Stepik quizzes/activities, we will give **half** credit
+for finishing it after the deadline any time up to the end of the quarter.
+
+## Research Study
+
+### Consent to Participate in Educational Research
+
+University of California, San Diego
+
+Consent to Act as a Research Subject
+
+Investigating the Impact of Pedagogical Choices on University Student Learning and Engagement
+
+_Who is conducting the study, why you have been asked to participate, how you were selected, and what is the approximate number of participants in the study?_
+
+Gabriele Wienhausen, Director of the Teaching and Learning Commons, together with her education research colleagues is conducting a research study to find out more about how pedagogical choices affect student learning and experience in the classroom. You have been asked to participate in this study because you are a student in a class that is being studied or used as a control. There will be approximately 500,000 participants in this study.
+
+_Why is this study being done?_
+
+The purpose of this study is to create knowledge that has the potential to improve the learning and educational experience of students at UC San Diego and beyond.
+
+_What will happen to you in this study and which procedures are standard of care and which are experimental?_
+
+If you agree to be in this study, the following will happen:
+Your data from this class including grades, homework and exam submissions, and survey responses will be included in the analysis to determine the effectiveness of the pedagogical techniques used in this course compared to other similar courses.
+
+_How much time will each study procedure take, what is your total time commitment, and how long will the study last?_
+
+Your participation involves only agreeing to let us use your data in our analysis.  It will require no time on your part above the time you put into this course without agreeing to the study.
+
+_What risks are associated with this study?_
+
+Participation in this study may involve some added risks or discomforts. These include the following:
+
+1.   A potential for the loss of confidentiality.   We will not share your personally identifying data with people outside our research team.  Data will only be kept in anonymized form for research purposes.  Course data will not be used for this research study until after final grades have been posted and will be rendered confidential by removing any identifiers before analysis.  Your instructor will not know whether or not you are participating in this study until after final grades have been posted.  Data from students who opt out of the study will be removed prior to data analysis.  Research records will be kept confidential to the extent allowed by law. Research records may be reviewed by the UCSD Institutional Review Board.
+
+Since this is an investigational study, there may be some unknown risks that are currently unforeseeable. You will be informed of any significant new findings.
+
+_What are the alternatives to participating in this study?_
+
+The alternatives to participation in this study are not to participate.   If you choose to opt-out of participating in this research study, we will exclude your data from analysis.  Whether you participate will have no impact on your experience or grade in the associated class as the professor will not know who is or is not participating in the study until after final grades are assigned.
+
+_What benefits can be reasonably expected?_
+
+There is no direct benefit to you for participating in the study. The investigator, however, may learn more about how to improve student learning, and society may benefit from this knowledge.
+
+_Can you choose to not participate or withdraw from the study without penalty or loss of benefits?_
+
+Participation in research is entirely voluntary. You may refuse to participate or withdraw or refuse to answer specific questions in an interview or on a questionnaire at any time without penalty or loss of benefits to which you are entitled. If you decide that you no longer wish to continue in this study before the end of the quarter, simply respond to the online opt-out form here: https://goo.gl/forms/JSBRjEmkES6W6xYc2.  If you decide to opt out after the quarter has ended, you must contact Laurel Nelson (laureln@ucsd.edu) and give the quarter and the course from which you would like your data withdrawn.
+You will be told if any important new information is found during the course of this study that may affect your wanting to continue.
+
+_Can you be withdrawn from the study without your consent?_
+
+The PI may remove you from the study without your consent if the PI feels it is in your best interest or the best interest of the study. You may also be withdrawn from the study if you do not follow the instructions given you by the study personnel.
+
+_Will you be compensated for participating in this study?_
+
+You will not be compensated for participating in this study.
+
+_Are there any costs associated with participating in this study?_
+
+There will be no cost to you for participating in this study.
+
+_Who can you call if you have questions?_
+
+Gabriele Wienhausen and/or her colleague has explained this study to you and answered your questions. If you have other questions or research-related problems, you may reach Gabriele Wienhausen at gwienhausen@ucsd.edu or (858) 534-3958.
+
+You may call the Human Research Protections Program Office at 858-246-HRPP (858-246-4777) to inquire about your rights as a research subject or to report research-related problems.
+
+_Your Consent_
+
+If you consent to participate in this study and are at least 18 years old, no action is needed.  If you DO NOT consent to participate in this study, or you choose to opt-out at any time during the quarter, please submit this form online at  https://goo.gl/forms/JSBRjEmkES6W6xYc2.  Your instructor will not have access to the list of students who opted out until after grades are posted.  Note that you must separately opt-out of the study for each course involved in this study.

@@ -2,8 +2,10 @@
 layout: page
 title: "UCSD CSE8A – Introduction to Programming and Computational Problem Solving 1"
 doodle: "/doodle.png"
-doodle-alt: "A sound wave transformed to data, and back to into a higher-frequency version of the same sound. A four-pixel image of red, green, blue, and yellow pixels, transformed into data, then back into a rotated version of the original image."
+doodle-alt: "“A pie running a marathon, because ya know, Python” - Rachel Lim (CSE8A Tutor)"
 ---
+
+<div class="sidenote">Banner art by tutor Rachel Lim.</div>
 
 # Introduction to Programming I (UCSD CSE 8A)
 

@@ -104,6 +104,8 @@ Your grade will be calculated from:
 - 40% programming **assessments**
   - 3 during the quarter, plus one during finals week
 
+## Staff
+
 ## Labs and Check-ins
 
 Each week on Wednesday there will be synchronous lab sessions where you work

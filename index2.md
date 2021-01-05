@@ -84,8 +84,8 @@ In total, we aim for all of this (including lectures) to take you between
 that, consider asking the course staff for programming and study strategies.
 
 ## Staff
-<div style = "display:grid; justify-content:space-evenly;">
-  <div style = "display:grid; justify-content:space-evenly;">
+<div style = "display:grid; justify-content:space-evenly;gap: 5px 5px;">
+  <div style = "display:grid; justify-content:center;">
     <img src="staff-images\shihua.png"/>
     <img src="staff-images\shihua.png"/>
     <img src="staff-images\sara.png"/>

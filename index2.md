@@ -85,12 +85,12 @@ that, consider asking the course staff for programming and study strategies.
 
 ## Staff
 <div style = "display:grid; gap: 5px 5px;">
-  <div style = "display:grid;">
-    <div><img src="staff-images\shihua.png"/>Joe Politz(instructor)</div>
-    <div><img src="staff-images\shihua.png"/></div>
-    <div><img src="staff-images\sara.png"/></div>
-    <div><img src="staff-images\savitha.png"/></div>
-    <div><img src="staff-images\winny.png"/></div>
+  <div>
+    <div><img src="staff-images\shihua.png"/>Joe Politz (Instructor)</div>
+    <div><img src="staff-images\shihua.png"/>Shihua Lu (TA)</div>
+    <div><img src="staff-images\sara.png"/>Sara Safa (TA)</div>
+    <div><img src="staff-images\savitha.png"/>Savitha Srinivasan (TA)</div>
+    <div><img src="staff-images\winny.png"/>Winny Wilson (TA)</div>
   </div>
   <div class="row">
     <img src="staff-images\erin.png"/>

@@ -83,6 +83,45 @@ In total, we aim for all of this (including lectures) to take you between
 10-12 hours per week. If you find yourself taking substantially more than
 that, consider asking the course staff for programming and study strategies.
 
+## Staff
+<div class="grid-container">
+  <div class="row">
+    <img src="staff-images\shihua.png"/>
+    <img src="staff-images\shihua.png"/>
+    <img src="staff-images\sara.png"/>
+    <img src="staff-images\savitha.png"/>
+    <img src="staff-images\winny.png"/>
+  </div>
+  <div class="row">
+    <img src="staff-images\erin.png"/>
+    <img src="staff-images\ellie.png"/>
+    <img src="staff-images\melissa.png"/>
+    <img src="staff-images\oliver.png"/>
+    <img src="staff-images\shihua.png"/>
+  </div>
+  <div class="row">
+    <img src="staff-images\farnia.png"/>
+    <img src="staff-images\shihua.png"/>
+    <img src="staff-images\brian.png"/>
+    <img src="staff-images\shihua.png"/>
+    <img src="staff-images\pawan.png"/>
+  </div>
+  <div class="row">
+    <img src="staff-images\amanda.png"/>
+    <img src="staff-images\pramith.png"/>
+    <img src="staff-images\shad.png"/>
+    <img src="staff-images\jill.png"/>
+    <img src="staff-images\darya.png"/>
+  </div>
+  <div class="row">
+    <img src="staff-images\shihua.png"/>
+    <img src="staff-images\shihua.png"/>
+    <img src="staff-images\catherine.png"/>
+    <img src="staff-images\jeff.png"/>
+    <img src="staff-images\bob.png"/>
+  </div>
+</div>
+
 ## Calendar
 
 The schedule below outlines topics, due dates, and links to assignments.
@@ -91,7 +130,6 @@ course. So if you check the schedule at the beginning of the week, you'll
 know when all reading quizzes, programming assignments, etc. will be due.
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQTwtGMeOD89lOwKQpMbDj97UqxUCQr6e3k3rOwhjtQfiBCVyHlGFni9C56EXDaq6vMR5tNigeYd8ou/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="border: none; border-top: 1px solid grey; border-spacing: 2px" width="100%" height="800px"></iframe>
-
 
 <a id="grading"></a>
 ## Grading
@@ -103,8 +141,6 @@ Your grade will be calculated from:
 - 40% programming **assignments** (PAs)
 - 40% programming **assessments**
   - 3 during the quarter, plus one during finals week
-
-## Staff
 
 ## Labs and Check-ins
 

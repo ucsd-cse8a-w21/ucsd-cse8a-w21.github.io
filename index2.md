@@ -84,12 +84,12 @@ In total, we aim for all of this (including lectures) to take you between
 that, consider asking the course staff for programming and study strategies.
 
 ## Staff
-<div style = "display:inline-grid;grid-gap: 7px;">
-    <div><img src="staff-images\shihua.png"/></div>
-    <div><img src="staff-images\shihua.png"/></div>
-    <div><img src="staff-images\sara.png"/></div>
-    <div><img src="staff-images\savitha.png"/></div>
-    <div><img src="staff-images\winny.png"/></div>
+<div style = "display:inline-grid;grid-gap: 7px;grid-template-columns: auto 1fr;">
+    <img src="staff-images\shihua.png"/>
+    <img src="staff-images\shihua.png"/>
+    <img src="staff-images\sara.png"/>
+    <img src="staff-images\savitha.png"/>
+    <img src="staff-images\winny.png"/>
     <img src="staff-images\erin.png"/>
     <img src="staff-images\ellie.png"/>
     <img src="staff-images\melissa.png"/>

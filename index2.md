@@ -84,36 +84,36 @@ In total, we aim for all of this (including lectures) to take you between
 that, consider asking the course staff for programming and study strategies.
 
 ## Staff
-<div style = "display:flex;">
-  <div style ="flex: 20%;" class="row">
-    <div><img src="staff-images\shihua.png"/>Joe Politz (Instructor)</div>
-    <div><img src="staff-images\shihua.png"/>Shihua Lu (TA)</div>
-    <div><img src="staff-images\sara.png"/>Sara Safa (TA)</div>
-    <div><img src="staff-images\savitha.png"/>Savitha Srinivasan (TA)</div>
-    <div><img src="staff-images\winny.png"/>Winny Wilson (TA)</div>
+<div style = "display:grid;grid-gap: 7px;">
+  <div class="row">
+    <div><img src="staff-images\shihua.png"/></div>
+    <div><img src="staff-images\shihua.png"/></div>
+    <div><img src="staff-images\sara.png"/></div>
+    <div><img src="staff-images\savitha.png"/></div>
+    <div><img src="staff-images\winny.png"/></div>
   </div>
-  <div style ="flex: 20%;" class="row">
+  <div class="row">
     <img src="staff-images\erin.png"/>
     <img src="staff-images\ellie.png"/>
     <img src="staff-images\melissa.png"/>
     <img src="staff-images\oliver.png"/>
     <img src="staff-images\shihua.png"/>
   </div>
-  <div style ="flex: 20%;" class="row">
+  <div class="row">
     <img src="staff-images\farnia.png"/>
     <img src="staff-images\shihua.png"/>
     <img src="staff-images\brian.png"/>
     <img src="staff-images\shihua.png"/>
     <img src="staff-images\pawan.png"/>
   </div>
-  <div style ="flex: 20%;" class="row">
+  <div class="row">
     <img src="staff-images\amanda.png"/>
     <img src="staff-images\pramith.png"/>
     <img src="staff-images\shad.png"/>
     <img src="staff-images\jill.png"/>
     <img src="staff-images\darya.png"/>
   </div>
-  <div style ="flex: 20%;" class="row">
+  <div class="row">
     <img src="staff-images\shihua.png"/>
     <img src="staff-images\shihua.png"/>
     <img src="staff-images\catherine.png"/>

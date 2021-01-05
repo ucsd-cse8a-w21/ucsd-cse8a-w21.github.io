@@ -85,7 +85,7 @@ that, consider asking the course staff for programming and study strategies.
 
 ## Staff
 <div style = "display:grid; justify-content:space-evenly;">
-  <div class="row">
+  <div style = "display:grid; justify-content:space-evenly;">
     <img src="staff-images\shihua.png"/>
     <img src="staff-images\shihua.png"/>
     <img src="staff-images\sara.png"/>

@@ -84,12 +84,9 @@ In total, we aim for all of this (including lectures) to take you between
 that, consider asking the course staff for programming and study strategies.
 
 ## Staff
-<div style = "display:inline-grid;grid-gap:7px;grid-template-columns: repeat(5, 1fr);grid-template-rows: repeat(5, 1fr);">
-    <img src="staff-images\shihua.png"/>
-    <img src="staff-images\shihua.png"/>
-    <img src="staff-images\sara.png"/>
-    <img src="staff-images\savitha.png"/>
-    <img src="staff-images\winny.png"/>
+<div style = "display:inline-grid;grid-gap:7px;grid-template-columns: repeat(5, 1fr);grid-template-rows: repeat(5, auto); justify-content:center;">
+    <img src="staff-images\shihua.png"/><img src="staff-images\shihua.png"/><img src="staff-images\sara.png"/><img src="staff-images\savitha.png"/><img src="staff-images\winny.png"/>
+    <p>Joe Politz (Instructor)</p> <p>Shihua Lu (TA)</p> <p>Sara Safa (TA)</p> <p>Savitha Srinivasan (TA)</p> <p>Winny Wilson (TA)</p>
     <img src="staff-images\erin.png"/>
     <img src="staff-images\ellie.png"/>
     <img src="staff-images\melissa.png"/>

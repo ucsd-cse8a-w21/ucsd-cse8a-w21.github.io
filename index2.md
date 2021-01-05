@@ -6,7 +6,7 @@ doodle-alt: "“A pie running a marathon, because ya know, Python” - Rachel Li
 ---
 
 <style>
-* {
+p {
     margin: 0px;
 }
 </style>

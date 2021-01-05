@@ -90,7 +90,7 @@ that, consider asking the course staff for programming and study strategies.
     <img src="staff-images\sara.png"/>
     <img src="staff-images\savitha.png"/>
     <img src="staff-images\winny.png"/>
-    <p>Joe Politz (Instructor)</p> <p>Shihua Lu (TA)</p> <p>Sara Safa (TA)</p> <p>Savitha Srinivasan (TA)</p> <p>Winny Wilson (TA)</p>
+    <p>Joe Politz</p> <p>Shihua Lu</p> <p>Sara Safa</p> <p>Savitha Srinivasan</p> <p>Winny Wilson</p>
     <p>Instructor</p> <p>TA</p> <p>TA</p> <p>TA</p> <p>TA</p>
     <img src="staff-images\erin.png"/>
     <img src="staff-images\ellie.png"/>

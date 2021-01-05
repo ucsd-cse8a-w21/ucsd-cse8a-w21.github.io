@@ -84,7 +84,7 @@ In total, we aim for all of this (including lectures) to take you between
 that, consider asking the course staff for programming and study strategies.
 
 ## Staff
-<div style = "display:inline-grid;grid-gap:5px;grid-template-columns: repeat(5, 1fr);grid-template-rows: repeat(5, auto); justify-items:center;">
+<div style = "display:inline-grid;grid-gap:2px 7px;grid-template-columns: repeat(5, 1fr);grid-template-rows: repeat(5, auto); justify-items:center;">
     <img src="staff-images\joe.png"/>
     <img src="staff-images\shihua.png"/>
     <img src="staff-images\sara.png"/>
@@ -92,30 +92,35 @@ that, consider asking the course staff for programming and study strategies.
     <img src="staff-images\winny.png"/>
     <p>Joe Politz</p> <p>Shihua Lu</p> <p>Sara Safa</p> <p>Savitha Srinivasan</p> <p>Winny Wilson</p>
     <p>Instructor</p> <p>TA</p> <p>TA</p> <p>TA</p> <p>TA</p>
+    <p>jpolitz@eng.ucsd.edu</p> <p>s5lu@ucsd.edu</p> <p>sasafa@ucsd.edu</p> <p>sasriniv@ucsd.edu</p> <p>wiwilson@ucsd.edu</p>
     <img src="staff-images\erin.png"/>
     <img src="staff-images\ellie.png"/>
     <img src="staff-images\melissa.png"/>
     <img src="staff-images\oliver.png"/>
     <img src="staff-images\shihua.png"/>
     <p>Erin Griggs</p> <p>Ellie Huo</p> <p>Melissa Ignacio</p> <p>Oliver Korchnoy</p> <p>Rachel Lim</p>
+    <p>egriggs@ucsd.edu</p> <p>elhuo@ucsd.edu</p> <p>mignacio@ucsd.edu</p> <p>okorchno@ucsd.edu</p> <p>ral077@ucsd.edu</p>
     <img src="staff-images\farnia.png"/>
     <img src="staff-images\amy.png"/>
     <img src="staff-images\brian.png"/>
     <img src="staff-images\mary.png"/>
     <img src="staff-images\pawan.png"/>
     <p>Farnia Nafarifard</p> <p>Amy Nguyen</p> <p>Brian Nguyen</p> <p>Mary Nguyen</p> <p>Pawan Paleja</p>
+    <p>fnafarif@ucsd.edu</p> <p>atn014@ucsd.edu</p> <p>brnguyen@ucsd.edu</p> <p>manguyen@ucsd.edu</p> <p>ppaleja@ucsd.edu</p>
     <img src="staff-images\amanda.png"/>
     <img src="staff-images\pramith.png"/>
     <img src="staff-images\shad.png"/>
     <img src="staff-images\jill.png"/>
     <img src="staff-images\darya.png"/>
     <p>Amanda Quach</p> <p>Pramith Reddy</p> <p>Shad Reyes</p> <p>Jill Su</p> <p>Darya Verzhbinsky</p>
+    <p>amquach@ucsd.edu</p> <p>ptreddy@ucsd.edu</p> <p>s9reyes@ucsd.edu</p> <p>jsu@ucsd.edu</p> <p>dverzhbi@ucsd.edu</p>
     <img src="staff-images\shihua.png"/>
     <img src="staff-images\maxwell.png"/>
     <img src="staff-images\catherine.png"/>
     <img src="staff-images\jeff.png"/>
     <img src="staff-images\bob.png"/>
     <p>Ethan Wadsworth</p> <p>Bryan Wong</p> <p>Catherine Xia</p> <p>Jeff Xu</p> <p>Bob Zhang</p>
+    <p>eswadswo@ucsd.edu</p> <p>mbwong@ucsd.edu</p> <p>f3xia@ucsd.edu</p> <p>jjx003@ucsd.edu</p> <p>chz026@ucsd.edu</p>
 </div>
 
 ## Calendar

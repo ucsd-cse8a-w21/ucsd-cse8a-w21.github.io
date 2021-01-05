@@ -84,9 +84,14 @@ In total, we aim for all of this (including lectures) to take you between
 that, consider asking the course staff for programming and study strategies.
 
 ## Staff
-<div style = "display:inline-grid;grid-gap:7px;grid-template-columns: repeat(5, 1fr);grid-template-rows: repeat(5, auto); justify-items:center;">
-    <img src="staff-images\shihua.png"/><img src="staff-images\shihua.png"/><img src="staff-images\sara.png"/><img src="staff-images\savitha.png"/><img src="staff-images\winny.png"/>
+<div style = "display:inline-grid;grid-gap:5px;grid-template-columns: repeat(5, 1fr);grid-template-rows: repeat(5, auto); justify-items:center;">
+    <img src="staff-images\joe.png"/>
+    <img src="staff-images\shihua.png"/>
+    <img src="staff-images\sara.png"/>
+    <img src="staff-images\savitha.png"/>
+    <img src="staff-images\winny.png"/>
     <p>Joe Politz (Instructor)</p> <p>Shihua Lu (TA)</p> <p>Sara Safa (TA)</p> <p>Savitha Srinivasan (TA)</p> <p>Winny Wilson (TA)</p>
+    <p>Instructor</p> <p>TA</p> <p>TA</p> <p>TA</p> <p>TA</p>
     <img src="staff-images\erin.png"/>
     <img src="staff-images\ellie.png"/>
     <img src="staff-images\melissa.png"/>
@@ -94,9 +99,9 @@ that, consider asking the course staff for programming and study strategies.
     <img src="staff-images\shihua.png"/>
     <p>Erin Griggs</p> <p>Ellie Huo</p> <p>Melissa Ignacio</p> <p>Oliver Korchnoy</p> <p>Rachel Lim</p>
     <img src="staff-images\farnia.png"/>
-    <img src="staff-images\shihua.png"/>
+    <img src="staff-images\amy.png"/>
     <img src="staff-images\brian.png"/>
-    <img src="staff-images\shihua.png"/>
+    <img src="staff-images\mary.png"/>
     <img src="staff-images\pawan.png"/>
     <p>Farnia Nafarifard</p> <p>Amy Nguyen</p> <p>Brian Nguyen</p> <p>Mary Nguyen</p> <p>Pawan Paleja</p>
     <img src="staff-images\amanda.png"/>
@@ -106,7 +111,7 @@ that, consider asking the course staff for programming and study strategies.
     <img src="staff-images\darya.png"/>
     <p>Amanda Quach</p> <p>Pramith Reddy</p> <p>Shad Reyes</p> <p>Jill Su</p> <p>Darya Verzhbinsky</p>
     <img src="staff-images\shihua.png"/>
-    <img src="staff-images\shihua.png"/>
+    <img src="staff-images\maxwell.png"/>
     <img src="staff-images\catherine.png"/>
     <img src="staff-images\jeff.png"/>
     <img src="staff-images\bob.png"/>

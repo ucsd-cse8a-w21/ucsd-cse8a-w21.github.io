@@ -85,41 +85,31 @@ that, consider asking the course staff for programming and study strategies.
 
 ## Staff
 <div style = "display:grid;grid-gap: 7px;">
-  <div class="row">
     <div><img src="staff-images\shihua.png"/></div>
     <div><img src="staff-images\shihua.png"/></div>
     <div><img src="staff-images\sara.png"/></div>
     <div><img src="staff-images\savitha.png"/></div>
     <div><img src="staff-images\winny.png"/></div>
-  </div>
-  <div class="row">
     <img src="staff-images\erin.png"/>
     <img src="staff-images\ellie.png"/>
     <img src="staff-images\melissa.png"/>
     <img src="staff-images\oliver.png"/>
     <img src="staff-images\shihua.png"/>
-  </div>
-  <div class="row">
     <img src="staff-images\farnia.png"/>
     <img src="staff-images\shihua.png"/>
     <img src="staff-images\brian.png"/>
     <img src="staff-images\shihua.png"/>
     <img src="staff-images\pawan.png"/>
-  </div>
-  <div class="row">
     <img src="staff-images\amanda.png"/>
     <img src="staff-images\pramith.png"/>
     <img src="staff-images\shad.png"/>
     <img src="staff-images\jill.png"/>
     <img src="staff-images\darya.png"/>
-  </div>
-  <div class="row">
     <img src="staff-images\shihua.png"/>
     <img src="staff-images\shihua.png"/>
     <img src="staff-images\catherine.png"/>
     <img src="staff-images\jeff.png"/>
     <img src="staff-images\bob.png"/>
-  </div>
 </div>
 
 ## Calendar

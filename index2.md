@@ -5,6 +5,12 @@ doodle: "/doodle.png"
 doodle-alt: "“A pie running a marathon, because ya know, Python” - Rachel Lim (CSE8A Tutor)"
 ---
 
+<style>
+* {
+    margin: 0px;
+}
+</style>
+
 <div class="sidenote">Banner art by tutor Rachel Lim.</div>
 
 # Introduction to Programming I (UCSD CSE 8A)
@@ -84,7 +90,7 @@ In total, we aim for all of this (including lectures) to take you between
 that, consider asking the course staff for programming and study strategies.
 
 ## Staff
-<div style = "display:inline-grid;grid-gap:0px 7px;grid-template-columns: repeat(5, 1fr);grid-template-rows: repeat(5, auto); justify-items:center;">
+<div style = "display:inline-grid;grid-gap:4px 7px;grid-template-columns: repeat(5, 1fr);grid-template-rows: repeat(5, auto); justify-items:center;">
     <img src="staff-images\joe.png"/>
     <img src="staff-images\shihua.png"/>
     <img src="staff-images\sara.png"/>

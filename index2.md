@@ -84,7 +84,7 @@ In total, we aim for all of this (including lectures) to take you between
 that, consider asking the course staff for programming and study strategies.
 
 ## Staff
-<div class = "grid-container" style = "display:inline-grid;grid-gap:7px;grid-template-columns: repeat(5, 1fr);grid-template-rows: repeat(5, auto); justify-items:center;">
+<div class = "grid-container" style = "display:inline-grid;grid-gap:8px 20px;grid-template-columns: repeat(5, 1fr);grid-template-rows: repeat(5, auto); justify-items:center;">
     <img src="staff-images\joe.png"/>
     <img src="staff-images\shihua.png"/>
     <img src="staff-images\sara.png"/>

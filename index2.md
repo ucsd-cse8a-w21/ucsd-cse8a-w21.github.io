@@ -84,7 +84,7 @@ In total, we aim for all of this (including lectures) to take you between
 that, consider asking the course staff for programming and study strategies.
 
 ## Staff
-<div style = "display:grid; gap: 5px 5px;">
+<div>
   <div>
     <div><img src="staff-images\shihua.png"/>Joe Politz (Instructor)</div>
     <div><img src="staff-images\shihua.png"/>Shihua Lu (TA)</div>

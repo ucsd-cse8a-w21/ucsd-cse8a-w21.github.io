@@ -115,7 +115,7 @@ that, consider asking the course staff for programming and study strategies.
     <img src="staff-images\catherine.png"/>
     <img src="staff-images\jeff.png"/>
     <img src="staff-images\bob.png"/>
-    <p>Ethan Wadsworth</p> <p>Bryan Wong</p> <p>Catherine Xia</p> <p>Jeff Xu</p> <p>Bob Zhang</p>
+    <p>Ethan Wadsworth</p> <p>Maxwell Wong</p> <p>Catherine Xia</p> <p>Jeff Xu</p> <p>Bob Zhang</p>
 </div>
 
 ## Calendar

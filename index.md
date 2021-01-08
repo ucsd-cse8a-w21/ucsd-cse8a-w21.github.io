@@ -129,7 +129,7 @@ know when all reading quizzes, programming assignments, etc. will be due.
 
 ## Open Lab and Help Hours
 
-More info about how open lab and help hours will operate coming soon...
+More information about how open lab hours will be conducted can be found here [https://edstem.org/us/courses/3266/discussion/203876](https://edstem.org/us/courses/3266/discussion/203876)
 <iframe src="https://calendar.google.com/calendar/embed?height=700&amp;wkst=1&amp;bgcolor=%23B39DDB&amp;ctz=America%2FLos_Angeles&amp;src=Y185cjFkNGpyZ2xkbDgwNWNhbnBlaG45YWdsY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23B39DDB&amp;showTabs=0&amp;showPrint=0&amp;showCalendars=0&amp;mode=WEEK" style="border:solid 1px #777" width="730" height="700" frameborder="0" scrolling="no"></iframe>
 
 <a id="grading"></a>

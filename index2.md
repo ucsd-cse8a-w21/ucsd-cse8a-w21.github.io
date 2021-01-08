@@ -128,7 +128,7 @@ know when all reading quizzes, programming assignments, etc. will be due.
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQTwtGMeOD89lOwKQpMbDj97UqxUCQr6e3k3rOwhjtQfiBCVyHlGFni9C56EXDaq6vMR5tNigeYd8ou/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="border: none; border-top: 1px solid grey; border-spacing: 2px" width="100%" height="800px"></iframe>
 
 ## Open Lab and Help Hours
-<iframe src="https://calendar.google.com/calendar/embed?src=ucsd.edu_pidaab1qripu59ffmg7u35j09k%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: none; border-top: 1px solid grey; border-spacing: 2px" width="100%" height="800px"frameborder="0" scrolling="yes"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=ucsd.edu_pidaab1qripu59ffmg7u35j09k%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="yes"></iframe>
 
 <a id="grading"></a>
 ## Grading

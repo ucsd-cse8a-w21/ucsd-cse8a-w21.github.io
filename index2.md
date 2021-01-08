@@ -128,7 +128,7 @@ know when all reading quizzes, programming assignments, etc. will be due.
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQTwtGMeOD89lOwKQpMbDj97UqxUCQr6e3k3rOwhjtQfiBCVyHlGFni9C56EXDaq6vMR5tNigeYd8ou/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="border: none; border-top: 1px solid grey; border-spacing: 2px" width="100%" height="800px"></iframe>
 
 ## Open Lab and Help Hours
-<iframe src="https://calendar.google.com/calendar/embed?height=700&amp;wkst=1&amp;bgcolor=%23B39DDB&amp;ctz=America%2FLos_Angeles&amp;src=Y185cjFkNGpyZ2xkbDgwNWNhbnBlaG45YWdsY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%239E69AF&amp;mode=WEEK&amp;showNav=1&amp;showTabs=0&amp;showPrint=0&amp;showCalendars=0&amp;showDate=1" style="border:solid 1px #777" width="700" height="700" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=700&amp;wkst=1&amp;bgcolor=%23B39DDB&amp;ctz=America%2FLos_Angeles&amp;src=Y185cjFkNGpyZ2xkbDgwNWNhbnBlaG45YWdsY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%239E69AF&amp;mode=WEEK&amp;showNav=1&amp;showTabs=0&amp;showPrint=0&amp;showCalendars=0&amp;showDate=1" style="border:solid 1px #777" width="750" height="700" frameborder="0" scrolling="no"></iframe>
 
 <a id="grading"></a>
 ## Grading

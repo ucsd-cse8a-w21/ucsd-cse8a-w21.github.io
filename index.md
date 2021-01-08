@@ -125,6 +125,10 @@ About a week in advance, all due dates, readings, and notable events in the
 course. So if you check the schedule at the beginning of the week, you'll
 know when all reading quizzes, programming assignments, etc. will be due.
 
+Zoom only saves the recordings for up to 30 days, so if the recording links 
+expire, please to go Canvas - Media Gallery for the videos. For each video, 
+you can click on the Attachment tab to download the chat messages file.
+
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQTwtGMeOD89lOwKQpMbDj97UqxUCQr6e3k3rOwhjtQfiBCVyHlGFni9C56EXDaq6vMR5tNigeYd8ou/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="border: none; border-top: 1px solid grey; border-spacing: 2px" width="100%" height="800px"></iframe>
 
 ## Open Lab and Help Hours

@@ -124,7 +124,8 @@ that, consider asking the course staff for programming and study strategies.
 ## Professor and TA Office Hours
 - **Prof. Politz**: Mondays 2-3 PM
 - **Sara**: Fridays 4-5 PM
-- **Shihua**: Thursdays 11AM - 12PM
+- **Shihua**: Thursdays 11AM-12PM
+- **Winny**: Thursdays 4-5PM
 - **Savitha**: TBD
 
 ## Calendar

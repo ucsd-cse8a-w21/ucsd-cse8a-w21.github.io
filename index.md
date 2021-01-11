@@ -55,8 +55,8 @@ Don't have an edstem account for CSE8A or can't find your invite? Email
 jpolitz@eng.ucsd.edu, or message me on Canvas, with subject "CSE8A edstem"
 and let us know.
 
-As we schedule additional help hours, this section will grow with additional
-options -- there are lots of opportunities to get help in CSE8A!
+There are lots of opportunities to get help in CSE 8A! Please take a look at Open Lab and Help Hours 
+section below to find the times where you can receive one on one help from the tutors and TAs.
 
 ## Overview
 
@@ -128,7 +128,12 @@ know when all reading quizzes, programming assignments, etc. will be due.
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQTwtGMeOD89lOwKQpMbDj97UqxUCQr6e3k3rOwhjtQfiBCVyHlGFni9C56EXDaq6vMR5tNigeYd8ou/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="border: none; border-top: 1px solid grey; border-spacing: 2px" width="100%" height="800px"></iframe>
 
 ## Open Lab and Help Hours
-More information about how open lab hours will be conducted can be found here: [https://edstem.org/us/courses/3266/discussion/203876](https://edstem.org/us/courses/3266/discussion/203876). Please use the calendar below to find times at which tutors are available for 1-on-1 help to answer any questions you may have.
+The open lab hours are held on [Autograder](https://autograder.ucsd.edu/). You may find this  
+[article](https://docs.google.com/document/d/1Ck_M0b9nrIjoCVxX0Fa5GCNnbCSCdJ_jBGLnJSaiQRE/) 
+and this [page](https://autograder.ucsd.edu/help/518/student) from autograder helpful when using it. 
+Please use the calendar below to find times at which tutors are available for 1-on-1 help to answer 
+any questions you may have.
+
 <iframe src="https://calendar.google.com/calendar/embed?height=700&amp;wkst=1&amp;bgcolor=%23B39DDB&amp;ctz=America%2FLos_Angeles&amp;src=Y185cjFkNGpyZ2xkbDgwNWNhbnBlaG45YWdsY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23B39DDB&amp;showTabs=0&amp;showPrint=0&amp;showCalendars=0&amp;mode=WEEK" style="border:solid 1px #777" width="730" height="700" frameborder="0" scrolling="no"></iframe>
 
 <a id="grading"></a>

@@ -125,8 +125,8 @@ that, consider asking the course staff for programming and study strategies.
 - **Prof. Politz**: Mondays 2-3 PM
 - **Sara**: Fridays 4-5 PM  [https://ucsd.zoom.us/my/sarasafa]
 - **Shihua**: Thursdays 11AM-12PM  [https://ucsd.zoom.us/j/4815370544]
-- **Winny**: Thursdays 4-5PM  [https://ucsd.zoom.us/my/winnywilson]
-- **Savitha**: Tuesdays 5-6 pm   [https://ucsd.zoom.us/j/3269432234]
+- **Winny**: Thursdays 4-5 PM  [https://ucsd.zoom.us/my/winnywilson]
+- **Savitha**: Tuesdays 5-6 PM   [https://ucsd.zoom.us/j/3269432234]
 
 ## Calendar
 

@@ -58,6 +58,9 @@ and let us know.
 There are lots of opportunities to get help in CSE 8A! Please take a look at the Open Lab and Help Hours 
 section below to find the times where you can receive one on one help from the tutors and TAs.
 
+You can also visit the Professor and TA's during their office hours for additional help with the course.
+Hours occur weekly and are listed in the Professor and TA Office Hours section below.
+
 ## Overview
 
 In general, in a week in this course, you will:
@@ -117,6 +120,12 @@ that, consider asking the course staff for programming and study strategies.
     <img src="staff-images\bob.png"/>
     <p>Ethan Wadsworth</p> <p>Maxwell Wong</p> <p>Catherine Xia</p> <p>Jeff Xu</p> <p>Bob Zhang</p>
 </div>
+
+## Professor and TA Office Hours
+- **Prof. Politz**: Mondays 2-3 PM
+- **Sara**: Fridays 4-5 PM
+- **Shihua**: Thursdays 11AM - 12PM
+- **Savitha**: TBD
 
 ## Calendar
 

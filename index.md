@@ -123,10 +123,10 @@ that, consider asking the course staff for programming and study strategies.
 
 ## Professor and TA Office Hours
 - **Prof. Politz**: Mondays 2-3 PM
-- **Sara**: Fridays 4-5 PM
-- **Shihua**: Thursdays 11AM-12PM
-- **Winny**: Thursdays 4-5PM
-- **Savitha**: TBD
+- **Sara**: Fridays 4-5 PM,  https://ucsd.zoom.us/my/sarasafa
+- **Shihua**: Thursdays 11AM-12PM https://ucsd.zoom.us/j/4815370544
+- **Winny**: Thursdays 4-5PM https://ucsd.zoom.us/my/winnywilson
+- **Savitha**:  5-6 pm Tuesday - https://ucsd.zoom.us/j/3269432234
 
 ## Calendar
 

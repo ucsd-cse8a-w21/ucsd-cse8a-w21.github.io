@@ -59,12 +59,15 @@ There are lots of opportunities to get help in CSE 8A! Please take a look at the
 section below to find the times where you can receive one on one help from the tutors and TAs.
 
 You can also visit the Professor and TA's during their office hours for additional help with the course.
+
 **Office Hours**
-- **Prof. Politz**: Mondays 2-3 PM
-- **Sara**: Fridays 4-5 PM  [https://ucsd.zoom.us/my/sarasafa](https://ucsd.zoom.us/my/sarasafa)
+- **Prof. Politz**: Mondays 2-3 PM  [https://ucsd.zoom.us/j/3144231375](https://ucsd.zoom.us/j/3144231375)
+- **Savitha**: Tuesdays 5-6 PM  [https://ucsd.zoom.us/j/3269432234](https://ucsd.zoom.us/j/3269432234)
 - **Shihua**: Thursdays 11AM-12PM  [https://ucsd.zoom.us/j/4815370544](https://ucsd.zoom.us/j/4815370544)
 - **Winny**: Thursdays 4-5 PM  [https://ucsd.zoom.us/my/winnywilson](https://ucsd.zoom.us/my/winnywilson)
-- **Savitha**: Tuesdays 5-6 PM  [https://ucsd.zoom.us/j/3269432234](https://ucsd.zoom.us/j/3269432234)
+- **Sara**: Fridays 4-5 PM  [https://ucsd.zoom.us/my/sarasafa](https://ucsd.zoom.us/my/sarasafa)
+
+
 
 ## Overview
 

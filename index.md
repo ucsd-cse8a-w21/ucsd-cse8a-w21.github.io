@@ -31,14 +31,6 @@ on, and we will update it weekly.
 - Fill out [this
 survey](https://docs.google.com/forms/d/e/1FAIpQLScrxmgbgx9BCM8n_qo-BI4rKQAXhbGR2yf-sLrJGNYnanczSA/viewform)
 to get assigned to a lab session if you haven't already!
-- Read this whole Web page to understand the course
-- Make an account and start reading and completing exercises in [the online
-textbook](https://stepik.org/course/90691/syllabus)
-- Stay tuned for announcements on Tuesday/Wednesday about assignments and
-other information we will need for course setup
-- Check out the [course message board at
-EdStem](https://edstem.org/us/courses/3266/discussion/) and make sure you can
-login (you should get an invite email on Monday, January 4)
 
 ## Need Help?
 
@@ -264,6 +256,14 @@ complete on your own for **half** credit on that week's lab.
 If you miss a week of Stepik quizzes/activities, we will give **half** credit
 for finishing it after the deadline any time up to the end of the quarter.
 
+## Related Links
+
+- **Stepick** Make an account and start reading and completing exercises in [the online
+textbook](https://stepik.org/course/90691/syllabus)
+
+- **EdStem** Check out the [course message board at
+EdStem](https://edstem.org/us/courses/3266/discussion/) and make sure you can
+login (you should get an invite email on Monday, January 4)
 ## Research Study
 
 ### Consent to Participate in Educational Research

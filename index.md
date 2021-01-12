@@ -30,7 +30,7 @@ on, and we will update it weekly.
 
 - Fill out [this
 survey](https://docs.google.com/forms/d/e/1FAIpQLScrxmgbgx9BCM8n_qo-BI4rKQAXhbGR2yf-sLrJGNYnanczSA/viewform)
-so we can schedule your first lab on Wednesday, January 6!
+to get assigned to a lab session if you haven't already!
 - Read this whole Web page to understand the course
 - Make an account and start reading and completing exercises in [the online
 textbook](https://stepik.org/course/90691/syllabus)
@@ -59,7 +59,12 @@ There are lots of opportunities to get help in CSE 8A! Please take a look at the
 section below to find the times where you can receive one on one help from the tutors and TAs.
 
 You can also visit the Professor and TA's during their office hours for additional help with the course.
-Hours occur weekly and are listed in the Professor and TA Office Hours section below.
+**Office Hours**
+- **Prof. Politz**: Mondays 2-3 PM
+- **Sara**: Fridays 4-5 PM  [https://ucsd.zoom.us/my/sarasafa](https://ucsd.zoom.us/my/sarasafa)
+- **Shihua**: Thursdays 11AM-12PM  [https://ucsd.zoom.us/j/4815370544](https://ucsd.zoom.us/j/4815370544)
+- **Winny**: Thursdays 4-5 PM  [https://ucsd.zoom.us/my/winnywilson](https://ucsd.zoom.us/my/winnywilson)
+- **Savitha**: Tuesdays 5-6 PM  [https://ucsd.zoom.us/j/3269432234](https://ucsd.zoom.us/j/3269432234)
 
 ## Overview
 
@@ -120,13 +125,6 @@ that, consider asking the course staff for programming and study strategies.
     <img src="staff-images\bob.png"/>
     <p>Ethan Wadsworth</p> <p>Maxwell Wong</p> <p>Catherine Xia</p> <p>Jeff Xu</p> <p>Bob Zhang</p>
 </div>
-
-## Professor and TA Office Hours
-- **Prof. Politz**: Mondays 2-3 PM
-- **Sara**: Fridays 4-5 PM  [https://ucsd.zoom.us/my/sarasafa](https://ucsd.zoom.us/my/sarasafa)
-- **Shihua**: Thursdays 11AM-12PM  [https://ucsd.zoom.us/j/4815370544](https://ucsd.zoom.us/j/4815370544)
-- **Winny**: Thursdays 4-5 PM  [https://ucsd.zoom.us/my/winnywilson](https://ucsd.zoom.us/my/winnywilson)
-- **Savitha**: Tuesdays 5-6 PM  [https://ucsd.zoom.us/j/3269432234](https://ucsd.zoom.us/j/3269432234)
 
 ## Calendar
 

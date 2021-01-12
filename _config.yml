@@ -5,3 +5,5 @@ destination: _site
 lsi: false
 url: "https://uscd-cse8a-w20.github.io/"
 :pygments: true
+navbar-links: 
+  - [Do Now!](https://github.com/ucsd-cse8a-w21/ucsd-cse8a-w21.github.io/blob/main/index.md#do-now)

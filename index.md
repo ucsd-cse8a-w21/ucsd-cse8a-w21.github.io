@@ -31,6 +31,7 @@ on, and we will update it weekly.
 - [PA2](https://docs.google.com/document/d/1SxHtmDNzdm2Ogs2zA3SGog9fRD35dGPe/edit?ts=5fffccc1#) is now released and it is due on Tue, Jan 19th by 4pm.
 - [Stepik 1.6, 1.7, 2.1, 2.2, and 2.3](https://stepik.org/lesson/467747/step/1?unit=458566) are due on Friday, Jan 15th by 4pm.
 - If you missed a lab, you can fill out the corresponding form and earn up to %50 of the credit:[Lab2 make-up form](https://forms.gle/q1s1Dr1KMe3RY77LA), [Lab1 make-up form](https://forms.gle/QybphWqaceBJUVQR9), 
+- Fill out the [Pre-class Survay](https://forms.gle/fu7V8UxvKEH3i6ef7) so we can have your Stepik ids and grade your excercises(if you haven't filled it out already!!).
 - Fill out [this
 survey](https://docs.google.com/forms/d/e/1FAIpQLScrxmgbgx9BCM8n_qo-BI4rKQAXhbGR2yf-sLrJGNYnanczSA/viewform)
 to get assigned to a lab session if you haven't already!

@@ -29,6 +29,7 @@ This section will have instructions for current tasks you should be working
 on, and we will update it weekly.
 
 - [PA2](https://docs.google.com/document/d/1SxHtmDNzdm2Ogs2zA3SGog9fRD35dGPe/edit?ts=5fffccc1#) is now released and it is due on Jan 19th by 4pm
+- [Lab1 make-up form](https://forms.gle/QybphWqaceBJUVQR9). If you missed lab1, you can fill out this form and earn up to %50 of the credit.
 - Fill out [this
 survey](https://docs.google.com/forms/d/e/1FAIpQLScrxmgbgx9BCM8n_qo-BI4rKQAXhbGR2yf-sLrJGNYnanczSA/viewform)
 to get assigned to a lab session if you haven't already!

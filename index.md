@@ -28,7 +28,7 @@ and calendars below as we
 This section will have instructions for current tasks you should be working
 on, and we will update it weekly.
 
-- [PA2](https://docs.google.com/document/d/1SxHtmDNzdm2Ogs2zA3SGog9fRD35dGPe/edit?ts=5fffccc1#) is now released and it is due on Jan 19th by 4pm
+- [PA2](https://docs.google.com/document/d/1SxHtmDNzdm2Ogs2zA3SGog9fRD35dGPe/edit?ts=5fffccc1#) is now released and it is due on Tue, Jan 19th by 4pm.
 - [Stepik 1.6, 1.7, 2.1, 2.2, and 2.3](https://stepik.org/lesson/467747/step/1?unit=458566) are due Friday, Jan 15th by 4 pm.
 - [Lab1 make-up form](https://forms.gle/QybphWqaceBJUVQR9). If you missed lab1, you can fill out this form and earn up to %50 of the credit.
 - Fill out [this

@@ -64,8 +64,9 @@ You can also visit the Professor and TA's during their office hours for addition
 - **Sara**: Fridays 4-5 PM  [https://ucsd.zoom.us/my/sarasafa](https://ucsd.zoom.us/my/sarasafa)
 
 **Discussion Sessions** 
-- Fridays 5-7 PM [https://ucsd.zoom.us/j/96852121052?pwd=YzBSV3NxK29UL1QrdlBMQVdreFBpdz09] [Meeting ID: 968 5212 1052, Password: 865633]
-Discussion sessions will be conducted as Q&A sessions. Attendance is not required. You can come to the sessions anytime from Friday 5pm to 7pm and one of the TAs will help you with your questions. 
+- Fridays 5-7 PM [https://ucsd.zoom.us/j/96852121052](https://ucsd.zoom.us/j/96852121052?pwd=YzBSV3NxK29UL1QrdlBMQVdreFBpdz09)  
+    - Meeting ID: 968 5212 1052, Password: 865633  
+    - Discussion sessions will be conducted as Q&A sessions. Attendance is not required. You can come to the sessions anytime from Friday 5pm to 7pm and one of the TAs will help you with your questions. 
 
 ## Overview
 

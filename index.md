@@ -55,7 +55,7 @@ There are lots of opportunities to get help in CSE 8A! These include:
 **Group help hours** are a great place for any kind of question about the course, from help with your assignment to clarifications about material in lecture to questions beyond what we cover in the course. It is good for group discussions where you can hear and interact with other students. Attendance is not required. 
 The schedule for group help hours are in this calendar:
 
-[GOOGLE CALENDAR]
+<iframe src="https://calendar.google.com/calendar/embed?height=700&amp;wkst=1&amp;bgcolor=%23039BE5&amp;ctz=America%2FLos_Angeles&amp;src=Y19uaW9xZjM1MWN0cnRnanJrZHY1aWVoa2lqOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%233F51B5&amp;mode=WEEK&amp;showNav=1&amp;showDate=1&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0" style="border:solid 1px #777" width="730" height="700" frameborder="0" scrolling="no"></iframe>
 
 
 

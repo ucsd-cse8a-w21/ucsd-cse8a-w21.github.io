@@ -39,9 +39,9 @@ to get assigned to a lab session if you haven't already!
 There are lots of opportunities to get help in CSE 8A! These include:
 1. Help Hours, [click here](#open-lab-and-help-hours) to read about all the details.
     - **Group Help hours**, [click here](https://docs.google.com/spreadsheets/d/1mFi6lTBVgO7016XnhFqrLc4BNEVDOnpUTE6ibJw0Pxs/edit?usp=sharing) for the schedule.
-    - **Open Lab hours**, held on [Autograder](https://autograder.ucsd.edu/), [see this article](https://docs.google.com/document/d/1Ck_M0b9nrIjoCVxX0Fa5GCNnbCSCdJ_jBGLnJSaiQRE/) for more information.
+    - **Open Lab hours**, held on [Autograder](https://autograder.ucsd.edu/), see [this article](https://docs.google.com/document/d/1Ck_M0b9nrIjoCVxX0Fa5GCNnbCSCdJ_jBGLnJSaiQRE/) for more information.
 2. Asynchronous help on **Edstem**, [click here](https://edstem.org/us/courses/3266/discussion/) to access the discussion board, and [click here](#related-links) to see more instructions. 
-3. **Discussion Sessions** with the TAs, [click here](https://edstem.org/us/courses/3266/discussion/203941) for more information.
+3. **Discussion Sessions** with the TAs, see [this Edstem announcement](https://edstem.org/us/courses/3266/discussion/203941) for more information.
     - Fridays 5-7 PM: https://ucsd.zoom.us/j/96852121052
     - Meeting ID: 968 5212 1052, Password: 865633
 4. Instructor and TA **Office Hours** with Zoom links as the following: 

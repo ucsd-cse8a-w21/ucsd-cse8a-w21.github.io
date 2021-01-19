@@ -36,36 +36,39 @@ survey](https://docs.google.com/forms/d/e/1FAIpQLScrxmgbgx9BCM8n_qo-BI4rKQAXhbGR
 to get assigned to a lab session if you haven't already!
 
 ## Need Help?
+There are lots of opportunities to get help in CSE 8A! These include:
+1. Help Hours, [click here](#open-lab-and-help-hours) to read about all the details.
+    - **Group Help hours**, [click here](https://docs.google.com/spreadsheets/d/1mFi6lTBVgO7016XnhFqrLc4BNEVDOnpUTE6ibJw0Pxs/edit?usp=sharing) for the schedule.
+    - **Open Lab hours**, held on [Autograder](https://autograder.ucsd.edu/), [see this article](https://docs.google.com/document/d/1Ck_M0b9nrIjoCVxX0Fa5GCNnbCSCdJ_jBGLnJSaiQRE/) for more information.
+2. Asynchronous help on **Edstem**, [click here](https://edstem.org/us/courses/3266/discussion/) to access the discussion board, and [click here](#related-links) to see more instructions. 
+3. **Discussion Sessions** with the TAs, [click here](https://edstem.org/us/courses/3266/discussion/203941) for more information.
+    - Fridays 5-7 PM: https://ucsd.zoom.us/j/96852121052
+    - Meeting ID: 968 5212 1052, Password: 865633
+4. Instructor and TA **Office Hours** with Zoom links as the following: 
+    - Prof. Politz: Mondays 2-3 PM https://ucsd.zoom.us/j/3144231375
+    - Savitha: Tuesdays 5-6 PM https://ucsd.zoom.us/j/3269432234
+    - Shihua: Thursdays 11AM-12PM https://ucsd.zoom.us/j/4815370544
+    - Winny: Thursdays 4-5 PM https://ucsd.zoom.us/my/winnywilson
+    - Sara: Fridays 4-5 PM https://ucsd.zoom.us/my/sarasafa
 
-If you're stuck on something CSE8A-related, whether content or logistics or
-scheduling, and aren't sure what to do or who to ask, send a private
-discussion post to all instructors on edstem
-[https://edstem.org/us/courses/3266/discussion/](https://edstem.org/us/courses/3266/discussion/).
-(Click “New Thread”, make sure the “Private” box is checked, write your
-message, and submit) You can leave your message public if you think other
-students might be able to answer it, as well. We can direct you to the right
-resource.
+### Open Lab and Help Hours
+**Group help hours** are a great place for any kind of question about the course, from help with your assignment to clarifications about material in lecture to questions beyond what we cover in the course.
+The schedule for group help hours are in this calendar:
+[GOOGLE CALENDAR]
 
-Don't have an edstem account for CSE8A or can't find your invite? Email
-jpolitz@eng.ucsd.edu, or message me on Canvas, with subject "CSE8A edstem"
-and let us know.
 
-There are lots of opportunities to get help in CSE 8A! Please take a look at the Open Lab and Help Hours 
-section below to find the times where you can receive one on one help from the tutors and TAs.
 
-You can also visit the Professor and TA's during their office hours for additional help with the course.
+1-on-1 open lab hours is where TAs and tutors are available to answer your questions about any course content, though often this is a good place to go for programming help. At the times below, the course staff will be available to answer your questions, and it’s a great place to get debugging help, since you’ll be able to 1-on-1 screen share with a TA/tutor. 
 
-**Office Hours**
-- **Prof. Politz**: Mondays 2-3 PM  [https://ucsd.zoom.us/j/3144231375](https://ucsd.zoom.us/j/3144231375)
-- **Savitha**: Tuesdays 5-6 PM  [https://ucsd.zoom.us/j/3269432234](https://ucsd.zoom.us/j/3269432234)
-- **Shihua**: Thursdays 11AM-12PM  [https://ucsd.zoom.us/j/4815370544](https://ucsd.zoom.us/j/4815370544)
-- **Winny**: Thursdays 4-5 PM  [https://ucsd.zoom.us/my/winnywilson](https://ucsd.zoom.us/my/winnywilson)
-- **Sara**: Fridays 4-5 PM  [https://ucsd.zoom.us/my/sarasafa](https://ucsd.zoom.us/my/sarasafa)
 
-**Discussion Sessions** 
-- Fridays 5-7 PM [https://ucsd.zoom.us/j/96852121052](https://ucsd.zoom.us/j/96852121052?pwd=YzBSV3NxK29UL1QrdlBMQVdreFBpdz09)  
-    - Meeting ID: 968 5212 1052, Password: 865633  
-    - Discussion sessions will be conducted as Q&A sessions. Attendance is not required. You can come to the sessions anytime from Friday 5pm to 7pm and one of the TAs will help you with your questions. 
+The open lab hours are held on [Autograder](https://autograder.ucsd.edu/). You may find this [article](https://docs.google.com/document/d/1Ck_M0b9nrIjoCVxX0Fa5GCNnbCSCdJ_jBGLnJSaiQRE/) 
+and this [page](https://autograder.ucsd.edu/help/518/student) from autograder helpful when using it. 
+Please use the calendar below to find times at which tutors are available for 1-on-1 help to answer 
+any questions you may have.
+
+<iframe src="https://calendar.google.com/calendar/embed?height=700&amp;wkst=1&amp;bgcolor=%23B39DDB&amp;ctz=America%2FLos_Angeles&amp;src=Y185cjFkNGpyZ2xkbDgwNWNhbnBlaG45YWdsY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23B39DDB&amp;showTabs=0&amp;showPrint=0&amp;showCalendars=0&amp;mode=WEEK" style="border:solid 1px #777" width="730" height="700" frameborder="0" scrolling="no"></iframe>
+
+<a id="grading"></a>
 
 ## Overview
 
@@ -140,15 +143,7 @@ you can click on the Attachment tab to download the chat messages file.
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQTwtGMeOD89lOwKQpMbDj97UqxUCQr6e3k3rOwhjtQfiBCVyHlGFni9C56EXDaq6vMR5tNigeYd8ou/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="border: none; border-top: 1px solid grey; border-spacing: 2px" width="100%" height="800px"></iframe>
 
-## Open Lab and Help Hours
-The open lab hours are held on [Autograder](https://autograder.ucsd.edu/). You may find this [article](https://docs.google.com/document/d/1Ck_M0b9nrIjoCVxX0Fa5GCNnbCSCdJ_jBGLnJSaiQRE/) 
-and this [page](https://autograder.ucsd.edu/help/518/student) from autograder helpful when using it. 
-Please use the calendar below to find times at which tutors are available for 1-on-1 help to answer 
-any questions you may have.
 
-<iframe src="https://calendar.google.com/calendar/embed?height=700&amp;wkst=1&amp;bgcolor=%23B39DDB&amp;ctz=America%2FLos_Angeles&amp;src=Y185cjFkNGpyZ2xkbDgwNWNhbnBlaG45YWdsY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23B39DDB&amp;showTabs=0&amp;showPrint=0&amp;showCalendars=0&amp;mode=WEEK" style="border:solid 1px #777" width="730" height="700" frameborder="0" scrolling="no"></iframe>
-
-<a id="grading"></a>
 ## Grading
 
 Your grade will be calculated from:
@@ -264,12 +259,23 @@ for finishing it after the deadline any time up to the end of the quarter.
 
 ## Related Links
 
-- **Stepick** Make an account and start reading and completing exercises in [the online
+* **Stepik** 
+Make an account and start reading and completing exercises in [the online
 textbook](https://stepik.org/course/90691/syllabus)
 
-- **EdStem** Check out the [course message board at
+* **EdStem** 
+Check out the [course message board at
 EdStem](https://edstem.org/us/courses/3266/discussion/) and make sure you can
-login (you should get an invite email on Monday, January 4)
+login (you should get an invite email on Monday, January 4). 
+
+*More instructions on EdStem:*
+
+If you’re stuck on something CSE8A-related, whether content or logistics or scheduling, and aren’t sure what to do or who to ask, send a private discussion post to all instructors on edstem https://edstem.org/us/courses/3266/discussion/. (Click “New Thread”, make sure the “Private” box is checked, write your message, and submit) You can leave your message public if you think other students might be able to answer it, as well. We can direct you to the right resource, and, in some cases, might convert your private message into a public one if we believe everyone else could benefit from it. 
+Don’t have an edstem account for CSE8A or can’t find your invite? Email jpolitz@eng.ucsd.edu, or message me on Canvas, with subject “CSE8A edstem” and let us know.
+When answering questions, be polite, be clear, and assume the best intentions of the person asking. If it turns out you make a mistake or were wrong, admit it with a smile (emoji are great for this 😊), and make sure the correct information is clear. Above all, keep in mind that the course is a community whose goal is to foster a positive learning environment for everyone.
+For public discussion, note that answers from your classmates are not official! They could be downright wrong or misleading, completely by accident. “My classmate said so on EdStem” is not a legitimate justification in most arguments, though they may indeed lead you in helpful directions.
+
+
 ## Research Study
 
 ### Consent to Participate in Educational Research

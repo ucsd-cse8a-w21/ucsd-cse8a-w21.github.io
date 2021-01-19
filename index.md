@@ -52,13 +52,14 @@ There are lots of opportunities to get help in CSE 8A! These include:
     - Sara: Fridays 4-5 PM https://ucsd.zoom.us/my/sarasafa
 
 ### Open Lab and Help Hours
-**Group help hours** are a great place for any kind of question about the course, from help with your assignment to clarifications about material in lecture to questions beyond what we cover in the course.
+**Group help hours** are a great place for any kind of question about the course, from help with your assignment to clarifications about material in lecture to questions beyond what we cover in the course. It is good for group discussions where you can hear and interact with other students. Attendance is not required. 
 The schedule for group help hours are in this calendar:
+
 [GOOGLE CALENDAR]
 
 
 
-1-on-1 open lab hours is where TAs and tutors are available to answer your questions about any course content, though often this is a good place to go for programming help. At the times below, the course staff will be available to answer your questions, and it’s a great place to get debugging help, since you’ll be able to 1-on-1 screen share with a TA/tutor. 
+**1-on-1 open lab hours** is where TAs and tutors are available to answer your questions about any course content, though often this is a good place to go for programming help. At the times below, the course staff will be available to answer your questions, and it’s a great place to get debugging help, since you’ll be able to 1-on-1 screen share with a TA/tutor. 
 
 
 The open lab hours are held on [Autograder](https://autograder.ucsd.edu/). You may find this [article](https://docs.google.com/document/d/1Ck_M0b9nrIjoCVxX0Fa5GCNnbCSCdJ_jBGLnJSaiQRE/) 

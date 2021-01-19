@@ -21,7 +21,7 @@ learning through your own program designs.
 
 This web page will serve as the main source of announcements and resources
 for the course, as well as the syllabus. It will get updates to the schedules
-and calendars below as we 
+and calendars below as we go through each week.
 
 ## Do Now!
 

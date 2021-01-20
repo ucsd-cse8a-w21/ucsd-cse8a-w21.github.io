@@ -186,7 +186,10 @@ There is a free online textbook with built-in quizzes and practice activities
 You'll complete these for credit each week (due Friday 4pm), to get
 conceptual background and practice with the new programming features for the
 week. Your grade is based on the percentage of activities from the week's
-chapter that you complete.
+chapter that you complete. You _can_ collaborate with other students on these
+activities, and if you do it is your responsibility to make sure you
+understand them thoroughly enough to demonstrate your understanding on
+assessments.
 
 ## Programming Assignments and Assessments
 

@@ -29,7 +29,7 @@ This section will have instructions for current tasks you should be working
 on, and we will update it weekly.
 
 - [Stepik 2.4, 2.5](https://stepik.org/lesson/467752/step/1?unit=458571) due Friday, Jan 22, by 4 pm.
-- If you missed a lab, you can fill out the corresponding form and earn up to %50 of the credit:[Lab2 make-up form](https://forms.gle/q1s1Dr1KMe3RY77LA), [Lab1 make-up form](https://forms.gle/QybphWqaceBJUVQR9), 
+- If you missed a lab, you can fill out the corresponding form and earn up to %50 of the credit: [Lab 3 make-up form](https://docs.google.com/forms/d/e/1FAIpQLSd34OGESkTY_MG_50luXb9NF_11-Cr94hGmgM-R-ple6NTtFg/viewform), [Lab 2 make-up form](https://forms.gle/q1s1Dr1KMe3RY77LA), [Lab 1 make-up form](https://forms.gle/QybphWqaceBJUVQR9), 
 - Fill out the [Pre-class Survey](https://forms.gle/fu7V8UxvKEH3i6ef7) so we can have your Stepik ids and grade your excercises(if you haven't filled it out already!!).
 - Fill out [this
 survey](https://docs.google.com/forms/d/e/1FAIpQLScrxmgbgx9BCM8n_qo-BI4rKQAXhbGR2yf-sLrJGNYnanczSA/viewform)

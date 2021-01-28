@@ -31,7 +31,7 @@ on, and we will update it weekly.
 - [PA4](https://drive.google.com/file/d/1dvEJ8BDii9TzLRqnM7zsp9wRyfQBHsTs/view) is now released! It is due Tuesday, Feb 2nd, by 4pm. 
 - Stepik [3.1-3.4](https://stepik.org/lesson/467758/step/1) is due Friday, Jan 29th, by 4 pm.
 - Stepik 4.1-4.4 is due Friday, Feb 5th, by 4 pm.
-- If you missed a lab, you can fill out the corresponding form and earn up to %50 of the credit: [Lab 3 make-up form](https://docs.google.com/forms/d/e/1FAIpQLSd34OGESkTY_MG_50luXb9NF_11-Cr94hGmgM-R-ple6NTtFg/viewform), [Lab 2 make-up form](https://forms.gle/q1s1Dr1KMe3RY77LA), [Lab 1 make-up form](https://forms.gle/QybphWqaceBJUVQR9), 
+- If you missed a lab, you can fill out the corresponding form and earn up to %50 of the credit:[Lab 4 make-up form](https://forms.gle/6GvsRUKZAqs8x8Pr7), [Lab 3 make-up form](https://docs.google.com/forms/d/e/1FAIpQLSd34OGESkTY_MG_50luXb9NF_11-Cr94hGmgM-R-ple6NTtFg/viewform), [Lab 2 make-up form](https://forms.gle/q1s1Dr1KMe3RY77LA), [Lab 1 make-up form](https://forms.gle/QybphWqaceBJUVQR9), 
 - Fill out the [Pre-class Survey](https://forms.gle/fu7V8UxvKEH3i6ef7) so we can have your Stepik ids and grade your excercises(if you haven't filled it out already!!).
 - Fill out [this
 survey](https://docs.google.com/forms/d/e/1FAIpQLScrxmgbgx9BCM8n_qo-BI4rKQAXhbGR2yf-sLrJGNYnanczSA/viewform)

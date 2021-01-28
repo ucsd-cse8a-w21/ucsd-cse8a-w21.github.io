@@ -28,7 +28,9 @@ and calendars below as we go through each week.
 This section will have instructions for current tasks you should be working
 on, and we will update it weekly.
 
-- [PA3](https://ucsd-cse8a-w21.github.io/pa3/) is now released! It is due Tuesday, Jan 26th, by 4pm. Remember that this is an assessment to be completed entirely on your own(NO COLLABORATION!!). You can ask private questions about the assignment on Edstem, but it's likely that we won't give detailed answers and won't help you debug your program. The intent of this assessment is to give a grade to your understanding of the material from the first part of the course.
+- [PA4](https://drive.google.com/file/d/1dvEJ8BDii9TzLRqnM7zsp9wRyfQBHsTs/view) is now released! It is due Tuesday, Feb 2nd, by 4pm. 
+- Stepik [3.1-3.4](https://stepik.org/lesson/467758/step/1) is due Friday, Jan 29th, by 4 pm.
+- Stepik 4.1-4.4 is due Friday, Feb 5th, by 4 pm.
 - If you missed a lab, you can fill out the corresponding form and earn up to %50 of the credit: [Lab 3 make-up form](https://docs.google.com/forms/d/e/1FAIpQLSd34OGESkTY_MG_50luXb9NF_11-Cr94hGmgM-R-ple6NTtFg/viewform), [Lab 2 make-up form](https://forms.gle/q1s1Dr1KMe3RY77LA), [Lab 1 make-up form](https://forms.gle/QybphWqaceBJUVQR9), 
 - Fill out the [Pre-class Survey](https://forms.gle/fu7V8UxvKEH3i6ef7) so we can have your Stepik ids and grade your excercises(if you haven't filled it out already!!).
 - Fill out [this

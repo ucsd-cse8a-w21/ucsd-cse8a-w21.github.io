@@ -13,7 +13,7 @@ doodle-alt: "“A pie running a marathon, because ya know, Python” - Rachel Li
 
 In this course, you will learn to write, trace, and test programs; explore the
 interactions between programs and data; and use computation to inspect and
-manipulate media like data, images, and sounds.
+manipulate media like data and images.
 
 We will explore these topics interactively in lecture, you will implement
 programs to practice your programming skills, and you will reflect on this
@@ -155,6 +155,31 @@ Your grade will be calculated from:
 - 40% programming **assignments** (PAs)
 - 40% programming **assessments**
   - 3 during the quarter, plus one during finals week
+
+The breakdown works like this:
+
+- Labs and reading are evenly split across the weeks
+- Programming **assignments** are weighted as follows:
+    - PA1: 2 points
+    - PA2/4/5/7/8: Two best scores worth 10 points each, next two best worth
+    8, next best worth 6
+
+    Note that this sums to 44 points, which is more than the total (40) for
+    assignments. There is no extra credit, but if you miss or submit an
+    assignment late, or make substantial mistakes, this gives you a way to make
+    up lost credit by doing well on future assignments. Note also that
+    completely skipping an assignment will hurt your grade, so you are always
+    incentivized to make them up for late credit.
+- Programming **assessments** are weighted as follows:
+    - PA3: 6 points
+    - PA6/9: Better score worth 16 points, worse score worth 8 points
+    - Final assessment: worth 18 points
+
+    Note that this sums to 48 points, which is more than the total for
+    assessments (40). There is no make-up work for assessments, and no extra
+    credit, but this policy allows you to make up some credit on future
+    assessments if you miss or do poorly on one.
+
 
 ## Labs and Check-ins
 

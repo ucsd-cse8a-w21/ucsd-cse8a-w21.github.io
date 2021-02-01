@@ -46,7 +46,7 @@ There are lots of opportunities to get help in CSE 8A! These include:
     - Fridays 5-7 PM: https://ucsd.zoom.us/j/96852121052
     - Meeting ID: 968 5212 1052, Password: 865633
 4. Instructor and TA **Office Hours** with Zoom links as the following: 
-    - Prof. Politz: Mondays 2-3 PM https://ucsd.zoom.us/j/3144231375
+    - Prof. Politz: Mondays 1-2 PM https://ucsd.zoom.us/j/3144231375
     - Savitha: Tuesdays 5-6 PM https://ucsd.zoom.us/j/3269432234
     - Shihua: Thursdays 11AM-12PM https://ucsd.zoom.us/j/4815370544
     - Winny: Thursdays 4-5 PM https://ucsd.zoom.us/my/winnywilson

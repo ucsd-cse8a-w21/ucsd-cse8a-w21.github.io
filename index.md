@@ -29,7 +29,7 @@ This section will have instructions for current tasks you should be working
 on, and we will update it weekly.
 
 - [PA5](https://docs.google.com/document/d/1W1yW5yE8AEKlTHvoFQ3MYsjA_ZePP5jCeHwGC10SDK0/edit?usp=sharing) is now released! It is due Tuesday, Feb 9th, by 4 pm.
-- Stepik [4.1-4.4](https://stepik.org/lesson/467754/step/1?unit=458573) is due Friday, Feb 5th, by 4 pm.
+- Stepik [5.1-5.4](https://stepik.org/lesson/467762/step/1?unit=458581) is due Friday, Feb 12th, by 4 pm.
 - If you missed a lab, you can fill out the corresponding form and earn up to %50 of the credit: [Lab 5 make-up form](https://forms.gle/14defd6iyCd5kM2i6),[Lab 4 make-up form](https://forms.gle/6GvsRUKZAqs8x8Pr7), [Lab 3 make-up form](https://docs.google.com/forms/d/e/1FAIpQLSd34OGESkTY_MG_50luXb9NF_11-Cr94hGmgM-R-ple6NTtFg/viewform), [Lab 2 make-up form](https://forms.gle/q1s1Dr1KMe3RY77LA), [Lab 1 make-up form](https://forms.gle/QybphWqaceBJUVQR9), 
 - Fill out the [Pre-class Survey](https://forms.gle/fu7V8UxvKEH3i6ef7) so we can have your Stepik ids and grade your excercises(if you haven't filled it out already!!).
 - Fill out [this

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "UCSD CSE8A W21 – PA3 (Programming Assessment)"
+title: "UCSD CSE8A W21 – PA6 (Programming Assessment)"
 doodle: "/doodle.png"
 ---
 

@@ -35,7 +35,7 @@ a-z or digits 0-9, and have length at least 4
 
 Write a program that prompts a user for input with the message `"Enter a
 username: "`. If they enter a valid username, it should print `"Thanks,
-username saved"`, and the program should end. If they enter an invalid
+username saved."`, and the program should end. If they enter an invalid
 username, it should print one of the following strings:
 
 - `"Too short"` if the string is shorter than 4 characters

@@ -28,6 +28,7 @@ and calendars below as we go through each week.
 This section will have instructions for current tasks you should be working
 on, and we will update it weekly.
 
+- [PA6](https://ucsd-cse8a-w21.github.io/pa6/)is now released and it is due Tuesday, Feb 16th, by 4pm. Remember that this is an assessment and you cannot communicate with anyone else or get staff help to complete it. You can ask staff questions about making your video or submission logistics, but they have been instructed to not help with your program.
 - Stepik [5.1-5.4](https://stepik.org/lesson/467762/step/1?unit=458581) is due Friday, Feb 12th, by 4 pm.
 - If you missed a lab, you can fill out the corresponding form and earn up to %50 of the credit: [Lab 6 make-up form](https://forms.gle/2J9UH9mwPWtwm2AGA), [Lab 5 make-up form](https://forms.gle/14defd6iyCd5kM2i6),[Lab 4 make-up form](https://forms.gle/6GvsRUKZAqs8x8Pr7), [Lab 3 make-up form](https://docs.google.com/forms/d/e/1FAIpQLSd34OGESkTY_MG_50luXb9NF_11-Cr94hGmgM-R-ple6NTtFg/viewform), [Lab 2 make-up form](https://forms.gle/q1s1Dr1KMe3RY77LA), [Lab 1 make-up form](https://forms.gle/QybphWqaceBJUVQR9), 
 - Fill out the [Pre-class Survey](https://forms.gle/fu7V8UxvKEH3i6ef7) so we can have your Stepik ids and grade your excercises(if you haven't filled it out already!!).

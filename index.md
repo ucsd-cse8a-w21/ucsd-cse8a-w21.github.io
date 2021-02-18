@@ -30,7 +30,7 @@ on, and we will update it weekly.
 
 - [PA7](https://docs.google.com/document/d/1BmU8ZOAKM1wL8DKEJ4qHMYQEBwWqf-W4EfXnvOuBNPo/edit?usp=sharing)is out! It is due, Tuesday, Feb 23rd, by 4 pm.
 - [Stepik 6.1-6.4,7.1,7.2](https://stepik.org/lesson/467766/step/1?unit=458585) is due Friday, Feb 19th, by 4 pm.
-- If you missed a lab, you can fill out the corresponding form and earn up to %50 of the credit: [Lab 6 make-up form](https://forms.gle/2J9UH9mwPWtwm2AGA), [Lab 5 make-up form](https://forms.gle/14defd6iyCd5kM2i6),[Lab 4 make-up form](https://forms.gle/6GvsRUKZAqs8x8Pr7), [Lab 3 make-up form](https://docs.google.com/forms/d/e/1FAIpQLSd34OGESkTY_MG_50luXb9NF_11-Cr94hGmgM-R-ple6NTtFg/viewform), [Lab 2 make-up form](https://forms.gle/q1s1Dr1KMe3RY77LA), [Lab 1 make-up form](https://forms.gle/QybphWqaceBJUVQR9), 
+- If you missed a lab 7, you can fill out the make-up form by wednesday, Feb 24th, and earn up to %50 of the credit: [Lab 7 Make-up form](https://forms.gle/Ys17q66wKdpUkucs5)
 - Fill out the [Pre-class Survey](https://forms.gle/fu7V8UxvKEH3i6ef7) so we can have your Stepik ids and grade your excercises(if you haven't filled it out already!!).
 - Fill out [this
 survey](https://docs.google.com/forms/d/e/1FAIpQLScrxmgbgx9BCM8n_qo-BI4rKQAXhbGR2yf-sLrJGNYnanczSA/viewform)

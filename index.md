@@ -28,8 +28,7 @@ and calendars below as we go through each week.
 This section will have instructions for current tasks you should be working
 on, and we will update it weekly.
 
-- [PA7](https://docs.google.com/document/d/1BmU8ZOAKM1wL8DKEJ4qHMYQEBwWqf-W4EfXnvOuBNPo/edit?usp=sharing) is out! It is due, Tuesday, Feb 23rd, by 4 pm.
-- [Stepik 6.1-6.4,7.1,7.2](https://stepik.org/lesson/467766/step/1?unit=458585) is due Friday, Feb 19th, by 4 pm.
+- [Stepik 7.3, 7.4, 8.1-8.4(MONDAY deadline)](https://stepik.org/lesson/467772/step/1?unit=458591) is due Monday, March 1st, by 4 pm.
 - If you missed a lab 7, you can fill out the make-up form by wednesday, Feb 24th, and earn up to %50 of the credit: [Lab 7 Make-up form](https://forms.gle/Ys17q66wKdpUkucs5)
 - Fill out the [Pre-class Survey](https://forms.gle/fu7V8UxvKEH3i6ef7) so we can have your Stepik ids and grade your excercises(if you haven't filled it out already!!).
 - Fill out [this

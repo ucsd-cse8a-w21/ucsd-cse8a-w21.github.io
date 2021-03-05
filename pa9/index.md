@@ -116,11 +116,17 @@ assert book_complexity(books) == { 'harry-potter': 16 / 5, 'a tale of two cities
 
 ## Video Tasks
 
-1. Choose one of the image functions `bottom_right` or `tricolor`. Show an
+You must also record and upload a screencast that demonstrates that you
+understand each of the programs you wrote.
+
+You should perform each of the following tasks in the recording:
+
+1. Show your student ID with your face showing (so we can verify that it is
+you).
+1. With your code file showing, choose one of the image functions `bottom_right` or `tricolor`. Show an
 example of calling the function at interactions with an image that has at least 2 rows and 2 columns, storing the result in a new variable. Describe the _memory
 diagram_ of the stack and heap before and after calling the function, including any relevant global variable. ([Example Video](https://drive.google.com/drive/u/0/folders/1T30xpNSRkQqease-HMcoN3YeVe0ayVkE)).
-
-2. Choose a loop, or a use of `map`/`filter` (or another list function like map or filter, if you used that) in your implementation of
+2. With your code file showing, choose a loop, or a use of `map`/`filter` (or another list function like map or filter, if you used that) in your implementation of
 `most_dense_greater_than` or in `book_complexity`. Show an example of calling
 that function at interactions, and then show trace of the part you picked for the input you used.
 

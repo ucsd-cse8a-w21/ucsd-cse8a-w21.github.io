@@ -1,0 +1,127 @@
+I"<h1 id="pa9-programming-assessment">PA9 (Programming Assessment)</h1>
+
+<p><strong>Due Tuesday, March 16, 4pm Pacific Time</strong></p>
+
+<p>This assessment is to be completed entirely on your own. You can ask
+<em>private</em> questions about the assignment on Edstem, but it’s likely that we
+won’t give detailed answers and won’t help you write or debug your program.
+The intent of this assessment is to give a grade to your understanding of the
+material from the course so far.</p>
+
+<p>You can use any course resources, videos, Google searches, and so on to
+complete this assessment. You <em>cannot</em> communicate with anyone else or get
+staff help to complete it. You can ask staff questions about making your
+video or submission logistics, but they have been instructed to not help with
+your program.</p>
+
+<p>You will also complete a video screencast demonstrating part of the PA for
+grading, which is detailed at the end of this description.</p>
+
+<h2 id="programming-tasks">Programming Tasks</h2>
+
+<h3 id="tricolor">Tricolor</h3>
+
+<p>Write a function <code class="highlighter-rouge">tricolor</code> that takes an image represented as a 2D list of tuples and changes it so the
+leftmost third is in <strong>redscale</strong>, the middle third in <strong>greenscale</strong>, and
+the rightmost third in <strong>bluescale</strong>. The function should return the
+reference to the original image. The <strong>redscale</strong> of a pixel is a pixel with the average of the original pixels’ values in the red component, and 0 in each of the green and blue components.</p>
+
+<p>If the image’s width isn’t an even multiple of 3, treat the “leftmost third”
+as the first <code class="highlighter-rouge">width // 3</code> columns, the “middle third” as the second <code class="highlighter-rouge">width //
+3</code> columns, and the remainder as the rightmost third.</p>
+
+<p>Example:</p>
+
+<p><img src="./pie-thon-tricolor.png" alt="Tricolor" />
+<img src="./tricolor-1.png" alt="Tricolor" /></p>
+
+<p>Write appropriate assert tests to demonstrate that your program works as
+expected. We’ve provided a small number of autograder tests to help you, but
+they don’t comprehensively cover the behavior of the function, which you are
+responsible for testing thoroughly.</p>
+
+<h3 id="bottom-right">Bottom-right</h3>
+
+<p>Write a function <code class="highlighter-rouge">bottom_right</code> that takes an image represented as a 2D list of tuples, and produces a <em>new</em>
+image that’s just the bottom right quadrant of the image. If the height or
+width are odd, round down. For example, the bottom right of a 3 height, 5
+width image has height 1 and width 2.</p>
+
+<p>Example:</p>
+
+<p><img src="./bottom_right-1.png" alt="bottom-right-1" />
+<img src="./bottom_right-2.png" alt="bottom-right-2" /></p>
+
+<p>Write appropriate assert tests to demonstrate that your program works as
+expected. We’ve provided a small number of autograder tests to help you, but
+they don’t comprehensively cover the behavior of the function, which you are
+responsible for testing thoroughly.</p>
+
+<h3 id="population-density">Population density</h3>
+
+<p>Write a function <code class="highlighter-rouge">most_dense_bigger_than</code> that takes a list of dictionaries
+<code class="highlighter-rouge">countries</code> and a number <code class="highlighter-rouge">area</code>. The list of dictionaries represents data
+about countries (described below), and the <code class="highlighter-rouge">area</code> parameter represents a
+square mileage. The function returns the <strong>name</strong> of the country that is the
+<strong>most dense</strong> in terms of population out of the countries that have at least
+<code class="highlighter-rouge">area</code> land area. We define the population density of a country as its
+<strong>population</strong> divided by its <strong>land area</strong>.</p>
+
+<p>Assume there are no ties, and the list contains at least one element.</p>
+
+<div class="sidenote">This data is from <a href="https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density">Wikipedia</a>.</div>
+
+<p>An example of a list of dictionaries representing data about countries is:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>countries = [
+  { 'name': "USA", 'population': 330000000, 'area': 3800000},
+  { 'name': "China", 'population': 1400000000, 'area': 3700000},
+  { 'name': "Tuvalu", 'population': 10300, 'area': 10 }
+]
+</code></pre></div></div>
+
+<p>We would expect that <code class="highlighter-rouge">most_dense_bigger_than(countries, 100)</code> would return
+<code class="highlighter-rouge">"China"</code>, and <code class="highlighter-rouge">most_dense_bigger_than(countries, 0)</code> would return
+<code class="highlighter-rouge">"Tuvalu"</code>. Your function should work for any input list of countries.</p>
+
+<h3 id="book-complexities">Book Complexities</h3>
+
+<p>Write a function <code class="highlighter-rouge">book_complexity</code> that takes a dictionary where the keys are strings (representing titles of books) and the values are lists of strings (representing the text of a book).</p>
+
+<p>It should produce a new dictionary with the same keys, where each value is the average (mean) of the lengths of the strings in the corresponding list (a crude measure of the complexity of a book). Assume all the lists have at least one element.</p>
+
+<p>Example:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>books = {
+  'harry potter': ['there', 'once', 'was', 'a', 'boy'],
+  'a tale of two cities': ['it', 'was', 'the', 'best']
+}
+assert book_complexity(books) == { 'harry-potter': 17 / 5, 'a tale of two cities': 12 / 4 }
+</code></pre></div></div>
+
+<h2 id="video-tasks">Video Tasks</h2>
+
+<ol>
+  <li>
+    <p>Choose one of the image functions <code class="highlighter-rouge">bottom_right</code> or <code class="highlighter-rouge">tricolor</code>. Show an
+example of calling the function at interactions with an image that has at least 2 rows and 2 columns, storing the result in a new variable. Describe the <em>memory
+diagram</em> of the stack and heap before and after calling the function, including any relevant global variable. (<a href="https://drive.google.com/drive/u/0/folders/1T30xpNSRkQqease-HMcoN3YeVe0ayVkE">Example Video</a>).</p>
+  </li>
+  <li>
+    <p>Choose a loop, or a use of <code class="highlighter-rouge">map</code>/<code class="highlighter-rouge">filter</code> (or another list function like map or filter, if you used that) in your implementation of
+<code class="highlighter-rouge">most_dense_greater_than</code> or in <code class="highlighter-rouge">book_complexity</code>. Show an example of calling
+that function at interactions, and then show trace of the part you picked for the input you used.</p>
+  </li>
+</ol>
+
+<p>Your video should be no longer than 8 minutes.</p>
+
+<h2 id="submission">Submission</h2>
+
+<p>Submit your program via Ed. Make sure to click ✔️Mark on all slides before the deadline.</p>
+
+<p>Submit your video via this Google Form:</p>
+
+<p>https://docs.google.com/forms/d/e/1FAIpQLSde_ahCaz2weOR12pnj-4QtPOAuhk4Msc0j2fiz8DVDSIx4HQ/viewform</p>
+
+:ET

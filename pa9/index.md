@@ -110,7 +110,7 @@ books = {
   'harry potter': ['there', 'once', 'was', 'a', 'boy'],
   'a tale of two cities': ['it', 'was', 'the', 'best']
 }
-assert book_complexity(books) == { 'harry-potter': 17 / 5, 'a tale of two cities': 12 / 4 }
+assert book_complexity(books) == { 'harry-potter': 16 / 5, 'a tale of two cities': 12 / 4 }
 ```
 
 

@@ -97,6 +97,11 @@ We would expect that `most_dense_bigger_than(countries, 100)` would return
 `"China"`, and `most_dense_bigger_than(countries, 0)` would return
 `"Tuvalu"`. Your function should work for any input list of countries.
 
+Write appropriate assert tests to demonstrate that your program works as
+expected. We’ve provided a small number of autograder tests to help you, but
+they don’t comprehensively cover the behavior of the function, which you are
+responsible for testing thoroughly.
+
 ### Book Complexities
 
 Write a function `book_complexity` that takes a dictionary where the keys are strings (representing titles of books) and the values are lists of strings (representing the text of a book).
@@ -112,6 +117,11 @@ books = {
 }
 assert book_complexity(books) == { 'harry-potter': 16 / 5, 'a tale of two cities': 12 / 4 }
 ```
+
+Write appropriate assert tests to demonstrate that your program works as
+expected. We’ve provided a small number of autograder tests to help you, but
+they don’t comprehensively cover the behavior of the function, which you are
+responsible for testing thoroughly.
 
 
 ## Video Tasks

@@ -6,7 +6,7 @@ doodle: "/doodle.png"
 
 # PA9 (Programming Assessment)
 
-**Due Tuesday, March 16, 4pm Pacific Time**
+**Due Tuesday, March 9, 4pm Pacific Time**
 
 This assessment is to be completed entirely on your own. You can ask
 _private_ questions about the assignment on Edstem, but it's likely that we

@@ -28,8 +28,8 @@ and calendars below as we go through each week.
 This section will have instructions for current tasks you should be working
 on, and we will update it weekly.
 
-- [PA8](https://docs.google.com/document/d/1YgwQIJYRjj-urewlgrfL5hKUMT4i5E7HLZfeJXgOsM0/edit?usp=sharing) is now released! It is due THURSDAY, March 4th, by 4pm. Please note that this is not our regular Tuesday due date and it is an extended deadline!!
-- [Stepik 7.3, 7.4, 8.1-8.4(MONDAY deadline)](https://stepik.org/lesson/467772/step/1?unit=458591) is due Monday, March 1st, by 4 pm.
+- [PA9](https://ucsd-cse8a-w21.github.io/pa9/) is now released! This assessment is due Tuesday, March 9th, by 4pm. 
+- [Stepik 9.1-9.5(final review)](https://stepik.org/lesson/501870/step/1?unit=493550) is due Friday, March 12th, by 4pm.
 - If you missed a lab 8, you can fill out the make-up form by wednesday, March 3rd, and earn up to %50 of the credit: [Lab 8 Make-up form](https://forms.gle/iqbTuoL5FwQdnHJEA)
 - Fill out the [Pre-class Survey](https://forms.gle/fu7V8UxvKEH3i6ef7) so we can have your Stepik ids and grade your excercises(if you haven't filled it out already!!).
 - Fill out [this

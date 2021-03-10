@@ -169,6 +169,10 @@ The breakdown works like this:
     up lost credit by doing well on future assignments. Note also that
     completely skipping an assignment will hurt your grade, so you are always
     incentivized to make them up for late credit.
+
+    You can resubmit assignments until 4pm on Monday, March 15 to earn half
+    of the **autograded** credit back. Individual assignments have their own
+    deadlines for late/resubmission of written portions.
 - Programming **assessments** are weighted as follows:
     - PA3: 6 points
     - PA6/9: Better score worth 16 points, worse score worth 8 points
@@ -178,6 +182,18 @@ The breakdown works like this:
     assessments (40). There is no make-up work for assessments, and no extra
     credit, but this policy allows you to make up some credit on future
     assessments if you miss or do poorly on one.
+
+    **New!** (March 9) We will also provide these alternate weightings if they
+    improve your assessment grade. You don't need to tell us which one you
+    chose, we'll automatically apply the best one for you.
+
+    - Alternate 1 (applied if, for example, you skip or miss the final)
+        - PA6/9: Better score worth 24 points, worse score worth 10 points
+        - Final worth 8 points
+    - Alternate 2 (useful for demonstrating mastery on the final after having
+    issues/conflicts with PA6/9)
+        - PA6/9: Better score worth 8 points, worse score worth 4 points
+        - Final worth 30 points
 
 
 ## Labs and Check-ins

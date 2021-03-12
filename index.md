@@ -28,13 +28,10 @@ and calendars below as we go through each week.
 This section will have instructions for current tasks you should be working
 on, and we will update it weekly.
 
-- [PA9](https://ucsd-cse8a-w21.github.io/pa9/) is now released! This assessment is due Tuesday, March 9th, by 4pm. 
 - [Stepik 9.1-9.5(final review)](https://stepik.org/lesson/501870/step/1?unit=493550) is due Friday, March 12th, by 4pm.
-- If you missed a lab 8, you can fill out the make-up form by wednesday, March 3rd, and earn up to %50 of the credit: [Lab 8 Make-up form](https://forms.gle/iqbTuoL5FwQdnHJEA)
-- Fill out the [Pre-class Survey](https://forms.gle/fu7V8UxvKEH3i6ef7) so we can have your Stepik ids and grade your excercises(if you haven't filled it out already!!).
-- Fill out [this
-survey](https://docs.google.com/forms/d/e/1FAIpQLScrxmgbgx9BCM8n_qo-BI4rKQAXhbGR2yf-sLrJGNYnanczSA/viewform)
-to get assigned to a lab session if you haven't already!
+- As an incentive, if you complete the [end of course survey](https://docs.google.com/forms/d/e/1FAIpQLScjfKgKhezFxYWgJCP15Lg8rlwuqNO9kR89LAPmE55iS4aseg/viewform) by Monday, March 15th, at 4pm, we will give you a point towards your lab score or stepik reading credit in the course, effectively forgiving one missed week of one of them.
+- Make sure to check your last grade report on Gradescope! 
+- If you missed a lab 9 and/or 10, you can fill out the make-up form by Monday, March 15th, and earn up to %50 of the credit: [Lab 9 Make-up form](https://forms.gle/gSkwvTMsPaSsFQx67), [Lab 10 Make-up form](https://forms.gle/zFtnxBEmEdVZKijH8)
 
 ## Need Help?
 There are lots of opportunities to get help in CSE 8A! These include:

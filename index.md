@@ -152,6 +152,9 @@ Your grade will be calculated from:
 - 40% programming **assessments**
   - 3 during the quarter, plus one during finals week
 
+The letter grade breakdown is ≥ 99: A+; ≥ 93: A; ≥ 90: A-; ≥ 87: B+; ≥ 83:
+B; ≥ 80: B-; ≥ 77: C+; ≥ 73: C; ≥ 70: C-; ≥ 60: D
+
 The breakdown works like this:
 
 - Labs and reading are evenly split across the weeks

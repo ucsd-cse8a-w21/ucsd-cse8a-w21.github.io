@@ -12,7 +12,7 @@ This assessment is to be completed entirely on your own. You can ask private que
 
 You can use any course resources, videos, Google searches, and so on to complete this assessment. You cannot communicate with anyone else, use a solution you did not write yourself, or get staff help to complete it. You can ask staff questions about making your video or submission logistics, but they have been instructed to not help with your program.
 
-For example, you should not post about the assignment on web sites like CourseHero, or copy solutions from there.
+As examples of academic integrity violations that students have committed in the past, you should not post about the assignment on external web sites, or copy solutions from elsewhere.
 
 You will also complete a video screencast demonstrating part of the PA for grading, which is detailed at the end of this description.
 

@@ -115,6 +115,6 @@ Your video should be no longer than 8 minutes.
 
 Submit your video here:
 
-https://docs.google.com/forms/d/e/1FAIpQLSff8Rxb5wUJI6LfibMb3J3wQsOwM86F88ZZ706g5V5s1XPrYw/viewform
+[https://docs.google.com/forms/d/e/1FAIpQLSff8Rxb5wUJI6LfibMb3J3wQsOwM86F88ZZ706g5V5s1XPrYw/viewform](https://docs.google.com/forms/d/e/1FAIpQLSff8Rxb5wUJI6LfibMb3J3wQsOwM86F88ZZ706g5V5s1XPrYw/viewform)
 
 Make sure to click ✔️Mark on your code submission. There are two places to click Mark, one for the first four functions, and one for just `tally.py`.

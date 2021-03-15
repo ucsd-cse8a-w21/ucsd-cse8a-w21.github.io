@@ -55,7 +55,9 @@ Write a function `quadcolor` that takes an image and changes it so that the top 
 
 For this question, the grayscale of a pixel is a pixel where each color component is the average (mean) of the original pixel's color components. For example, the grayscale of `(100, 11, 70)` is `(60, 60, 60)`.
 
-If the image has an odd width or height, make the left half and/or top half smaller. For example, the quadcolor of an image with height 3 would have a single row of red/green pixels, and two rows of blue/gray pixels.
+If the image has an odd width or height, round down towards the top and left.
+For example, the quadcolor of an image with height 3 would have a single row
+of red/green pixels, and two rows of blue/gray pixels.
 
 The scaled numbers should be truncated (rounded towards 0) so the values in the pixels are integers from 0-255.
 
@@ -73,7 +75,7 @@ We provide a few interactive tests in the automated grader. They don't necessari
 
 ## `tally`
 
-Write a program that continually prompts a user for a string of input with the prompt `"Enter a name (or nothing to stop):"`. If the user inputs an empty string, the program should print the name that they entered the most times, in this format:
+Write a program that continually prompts a user for a string of input with the prompt `"Enter a name (or nothing to stop): "`. If the user inputs an empty string, the program should print the name that they entered the most times, in this format:
 
 ```
 Winner is <name> with <n> votes.
@@ -100,6 +102,8 @@ Winner is Shad with 2 votes.
 ```
 
 # Video Tasks
+
+You will also record a short screencast to present your work.
 
 1. Show a photo ID.
 1. For `long_first_words`, show an example of calling the function at interactions with the provided example list. Provide a trace of a loop, a use of `map`, OR a use of `filter` in your implementation.

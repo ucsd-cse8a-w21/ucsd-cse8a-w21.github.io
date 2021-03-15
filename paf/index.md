@@ -8,7 +8,7 @@ doodle: "/doodle.png"
 
 **Due Thursday, March 18 at 10pm Pacific Time**
 
-This assessment is to be completed entirely on your own. You can ask private questions about the assignment on EdsStem, but it’s likely that we won’t give detailed answers and won’t help you write or debug your program. The intent of this assessment is to give a grade to your understanding of the material from the course so far.
+This assessment is to be completed entirely on your own. You can ask private questions about the assignment on EdStem, but it’s likely that we won’t give detailed answers and won’t help you write or debug your program. The intent of this assessment is to give a grade to your understanding of the material from the course so far.
 
 You can use any course resources, videos, Google searches, and so on to complete this assessment. You cannot communicate with anyone else, use a solution you did not write yourself, or get staff help to complete it. You can ask staff questions about making your video or submission logistics, but they have been instructed to not help with your program.
 
